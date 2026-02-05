@@ -1,0 +1,1452 @@
+head_id:token,relation_id:token,tail_id:token
+res:Situmurun_Waterfall,dct:category,cat:Alam
+res:Situmurun_Waterfall,hasCategory,Air Terjun
+res:Situmurun_Waterfall,hasFeature,Air Terjun Bertingkat
+res:Situmurun_Waterfall,hasLandscape,Tebing
+res:Situmurun_Waterfall,hasLandscape,Hutan
+res:Situmurun_Waterfall,suitableFor,Keluarga
+res:Situmurun_Waterfall,suitableFor,Petualang
+res:Situmurun_Waterfall,activityType,Berenang
+res:Situmurun_Waterfall,activityType,Fotografi
+res:Situmurun_Waterfall,activityType,Trekking
+res:Situmurun_Waterfall,dbo:feature,Air Terjun
+res:Situmurun_Waterfall,dbo:feature,Panorama Alam
+res:Situmurun_Waterfall,hasAtmosphere,Sejuk
+res:Situmurun_Waterfall,hasAtmosphere,Tenang
+res:Situmurun_Waterfall,roadCondition,Sulit
+res:Situmurun_Waterfall,accessibleBy,Jalan Kaki
+res:Situmurun_Waterfall,accessibleBy,Perahu/Kapal
+res:Situmurun_Waterfall,dbo:transportation,Perahu/Kapal
+res:Situmurun_Waterfall,dbo:transportation,Jalan Kaki
+res:Situmurun_Waterfall,dbo:location,Toba
+res:Situmurun_Waterfall,dbo:locatedInArea,Ajibata
+res:Situmurun_Waterfall,dbo:nearbyAttraction,Danau_Toba
+res:Situmurun_Waterfall,dbo:nearbyAttraction,Bukit_Barisan
+res:Situmurun_Waterfall,dbo:parking,Tidak Tersedia
+res:Situmurun_Waterfall,hasSubCategory,Air Terjun Alami
+res:Situmurun_Waterfall,oftenVisitedWith,Keluarga
+res:Situmurun_Waterfall,oftenVisitedWith,Teman
+res:Situmurun_Waterfall,oftenVisitedWith,Pasangan
+res:Situmurun_Waterfall,suitableFor,Wisatawan Domestik
+res:Situmurun_Waterfall,suitableFor,Wisatawan Mancanegara
+res:Air_Terjun_Sampuran_Huta_Namora,dct:category,cat:Alam
+res:Air_Terjun_Sampuran_Huta_Namora,hasFeature,Air Terjun
+res:Air_Terjun_Sampuran_Huta_Namora,hasLandscape,Alam
+res:Air_Terjun_Sampuran_Huta_Namora,suitableFor,Traveler
+res:Air_Terjun_Sampuran_Huta_Namora,activityType,Wisata Alam
+res:Air_Terjun_Sampuran_Huta_Namora,accessibleBy,Mobil
+res:Air_Terjun_Sampuran_Huta_Namora,accessibleBy,Motor
+res:Air_Terjun_Sampuran_Huta_Namora,roadCondition,Baik
+res:Air_Terjun_Sampuran_Huta_Namora,dbo:parking,Tersedia
+res:Air_Terjun_Sampuran_Huta_Namora,dbo:openingHours,Setiap Hari
+res:Air_Terjun_Sampuran_Huta_Namora,dbo:transportation,Mobil
+res:Air_Terjun_Sampuran_Huta_Namora,dbo:transportation,Motor
+res:Air_Terjun_Sampuran_Huta_Namora,dbo:location,Toba
+res:Air_Terjun_Sampuran_Huta_Namora,hasSubCategory,Air Terjun Alami
+res:Air_Terjun_Sampuran_Huta_Namora,hasAtmosphere,Sejuk
+res:Air_Terjun_Sampuran_Huta_Namora,hasAtmosphere,Tenang
+res:Air_Terjun_Sampuran_Huta_Namora,dbo:nearbyAttraction,Danau_Toba
+res:Air_Terjun_Sampuran_Huta_Namora,dbo:nearbyAttraction,Bukit_Holbung
+res:Air_Terjun_Sampuran_Huta_Namora,dbo:nearbyAttraction,Pantai_Pasir_Putih
+res:Air_Terjun_Sampuran_Huta_Namora,availableFacility,Area Parkir
+res:Air_Terjun_Sampuran_Huta_Namora,availableFacility,Spot Foto
+res:Air_Terjun_Sampuran_Huta_Namora,availableFacility,Jalur Trekking
+res:Air_Terjun_Sampuran_Huta_Namora,oftenVisitedWith,Keluarga
+res:Air_Terjun_Sampuran_Huta_Namora,oftenVisitedWith,Teman
+res:Air_Terjun_Sampuran_Huta_Namora,oftenVisitedWith,Pasangan
+res:Air_Terjun_Sampuran_Huta_Namora,dbo:nearbyFacility,Warung Makan
+res:Air_Terjun_Sampuran_Huta_Namora,dbo:nearbyFacility,Penginapan
+res:Air_Terjun_Sampuran_Huta_Namora,dbo:nearbyFacility,Toko Souvenir
+res:Air_Terjun_Sampuran_Huta_Namora,dbo:specialty,Keindahan Alam
+res:Air_Terjun_Sampuran_Huta_Namora,hasView,Pemandangan Alam
+res:Air_Terjun_Siboruon,dct:category,cat:Alam
+res:Air_Terjun_Siboruon,hasFeature,Air Terjun
+res:Air_Terjun_Siboruon,suitableFor,Keluarga
+res:Air_Terjun_Siboruon,suitableFor,Traveler
+res:Air_Terjun_Siboruon,activityType,Hiking
+res:Air_Terjun_Siboruon,activityType,Fotografi
+res:Air_Terjun_Siboruon,hasLandscape,Pegunungan
+res:Air_Terjun_Siboruon,hasAtmosphere,Sejuk
+res:Air_Terjun_Siboruon,hasAtmosphere,Tenang
+res:Air_Terjun_Siboruon,dbo:location,Toba
+res:Air_Terjun_Siboruon,dbo:nearbyAttraction,Danau_Toba
+res:Air_Terjun_Siboruon,accessibleBy,Mobil
+res:Air_Terjun_Siboruon,accessibleBy,Motor
+res:Air_Terjun_Siboruon,roadCondition,Baik
+res:Air_Terjun_Siboruon,dbo:transportation,Mobil
+res:Air_Terjun_Siboruon,dbo:transportation,Motor
+res:Air_Terjun_Siboruon,hasSubCategory,Air
+res:Air_Terjun_Siboruon,hasSubCategory,Alam
+res:Air_Terjun_Siboruon,oftenVisitedWith,Keluarga
+res:Air_Terjun_Siboruon,oftenVisitedWith,Teman
+res:Air_Terjun_Siboruon,oftenVisitedWith,Pasangan
+res:Air_Terjun_Siboruon,peakTime,Akhir_Pekan
+res:Air_Terjun_Siboruon,peakTime,Libur_Nasional
+res:Air_Terjun_Siboruon,dbo:parking,Tersedia
+res:Air_Terjun_Siboruon,dbo:parking,Berbayar
+res:Air_Terjun_Siboruon,hasDiningOption,Tidak_Tersedia
+res:Air_Terjun_Siboruon,accommodationType,Tidak_Tersedia
+res:Air_Terjun_Siboruon,dbo:openingHours,Siang
+res:Air_Terjun_Siboruon,dbo:openingHours,Pagi
+res:Air_Terjun_Siboruon,dct:subject,Air
+res:Bukit_Senyum,dct:category,cat:Alam
+res:Bukit_Senyum,ex:hasLandscape,Panorama Danau Toba
+res:Bukit_Senyum,ex:suitableFor,Keluarga
+res:Bukit_Senyum,ex:suitableFor,Fotografi
+res:Bukit_Senyum,ex:hasAtmosphere,Sejuk
+res:Bukit_Senyum,ex:hasAtmosphere,Tenang
+res:Bukit_Senyum,ex:activityType,Bersantai
+res:Bukit_Senyum,ex:activityType,Menikmati Pemandangan
+res:Bukit_Senyum,ex:hasFeature,Perbukitan
+res:Bukit_Senyum,ex:hasFeature,Spot Sunset
+res:Bukit_Senyum,dbo:location,Toba
+res:Bukit_Senyum,ex:roadCondition,Baik
+res:Bukit_Senyum,ex:accessibleBy,Mobil
+res:Bukit_Senyum,ex:accessibleBy,Motor
+res:Bukit_Senyum,dbo:transportation,Mobil
+res:Bukit_Senyum,dbo:transportation,Motor
+res:Bukit_Senyum,ex:oftenVisitedWith,Keluarga
+res:Bukit_Senyum,ex:oftenVisitedWith,Teman
+res:Bukit_Senyum,ex:peakTime,Akhir Pekan
+res:Bukit_Senyum,ex:peakTime,Hari Libur
+res:Bukit_Senyum,ex:hasSubCategory,Pemandangan
+res:Bukit_Senyum,ex:hasSubCategory,Spot Foto
+res:Bukit_Senyum,dbo:parking,Tersedia
+res:Bukit_Senyum,dbo:parking,Berbayar
+res:Bukit_Senyum,ex:availableFacility,Spot Foto
+res:Bukit_Senyum,ex:availableFacility,Area Parkir
+res:Bukit_Senyum,ex:hasDiningOption,Warung Makan
+res:Bukit_Senyum,ex:hasLocalCuisine,Makanan Ringan
+res:Bukit_Senyum,ex:hasLocalCuisine,Kopi Lokal
+res:Bukit_Senyum,ex:inTourismZone,Danau Toba
+res:Singgolom,dct:category,cat:Alam
+res:Singgolom,dbo:location,Toba
+res:Singgolom,dbo:locatedInArea,Ajibata
+res:Singgolom,ex:hasLandscape,Panorama Danau Toba
+res:Singgolom,ex:hasFeature,Spot Foto
+res:Singgolom,ex:suitableFor,Keluarga
+res:Singgolom,ex:suitableFor,Traveler
+res:Singgolom,ex:activityType,Bersantai
+res:Singgolom,ex:activityType,Fotografi
+res:Singgolom,ex:accessibleBy,Mobil
+res:Singgolom,ex:accessibleBy,Motor
+res:Singgolom,ex:roadCondition,Baik
+res:Singgolom,dbo:parking,Tersedia
+res:Singgolom,dbo:transportation,Mobil
+res:Singgolom,dbo:transportation,Motor
+res:Singgolom,ex:hasAtmosphere,Tenang
+res:Singgolom,ex:hasAtmosphere,Sejuk
+res:Singgolom,ex:hasSubCategory,Pemandangan
+res:Singgolom,ex:hasSubCategory,Spot Instagramable
+res:Singgolom,ex:availableFacility,Area Parkir
+res:Singgolom,ex:availableFacility,Tempat Duduk
+res:Singgolom,ex:oftenVisitedWith,Keluarga
+res:Singgolom,ex:oftenVisitedWith,Teman
+res:Singgolom,dbo:nearbyAttraction,Pantai_Apas_Ajibata
+res:Singgolom,dbo:nearbyAttraction,Bukit_Tarabunga
+res:Singgolom,ex:inTourismZone,Kawasan_Danau_Toba
+res:Singgolom,ex:hasDiningOption,Warung_Makan
+res:Singgolom,ex:hasLocalCuisine,Ikan_Bakar
+res:Singgolom,ex:ticketPriceRange,Terjangkau
+res:Singgolom,dbo:openingHours,Setiap Hari
+res:Ponot_Waterfall,dct:category,cat:Alam
+res:Ponot_Waterfall,hasSubCategory,Air Terjun
+res:Ponot_Waterfall,hasFeature,Air Terjun
+res:Ponot_Waterfall,hasLandscape,Tebing
+res:Ponot_Waterfall,suitableFor,Petualangan
+res:Ponot_Waterfall,activityType,Trekking
+res:Ponot_Waterfall,accessibleBy,Jalan Kaki
+res:Ponot_Waterfall,roadCondition,Tanah
+res:Ponot_Waterfall,dbo:transportation,Motor
+res:Ponot_Waterfall,dbo:transportation,Mobil
+res:Ponot_Waterfall,dbo:parking,Tersedia
+res:Ponot_Waterfall,dbo:openingHours,24 Jam
+res:Ponot_Waterfall,hasAtmosphere,Sejuk
+res:Ponot_Waterfall,hasAtmosphere,Alami
+res:Ponot_Waterfall,dbo:location,Toba
+res:Ponot_Waterfall,dbo:locatedInArea,Porsea
+res:Ponot_Waterfall,dbo:nearbyAttraction,Air_Terjun_Sampuran_Efrata
+res:Ponot_Waterfall,dbo:nearbyAttraction,Bukit_Tarabunga
+res:Ponot_Waterfall,dbo:nearbyAttraction,Pantai_Bulbul
+res:Ponot_Waterfall,dbo:nearbyAttraction,Taman_Eden_100
+res:Ponot_Waterfall,dbo:nearbyAttraction,Danau_Toba
+res:Ponot_Waterfall,dbo:nearbyAttraction,Museum_Batak_TB_Silalahi_Center
+res:Ponot_Waterfall,dbo:nearbyAttraction,Balige
+res:Ponot_Waterfall,dbo:nearbyAttraction,Bukit_Sigapiton
+res:Ponot_Waterfall,dbo:nearbyAttraction,Huta_Siallagan
+res:Ponot_Waterfall,dbo:nearbyAttraction,Bukit_Holbung
+res:Ponot_Waterfall,dbo:nearbyAttraction,Menara_Pandang_Tele
+res:Ponot_Waterfall,dbo:nearbyAttraction,Air_Terjun_Sipiso_Piso
+res:Ponot_Waterfall,dbo:nearbyAttraction,Pusuk_Buhit
+res:Ponot_Waterfall,dbo:nearbyAttraction,Samosir
+res:Batu_Basiha,dct:category,cat:Alam
+res:Batu_Basiha,hasFeature,Formasi Batu
+res:Batu_Basiha,hasLandscape,Perbukitan
+res:Batu_Basiha,suitableFor,Fotografi
+res:Batu_Basiha,suitableFor,Wisata Keluarga
+res:Batu_Basiha,activityType,Melihat Pemandangan
+res:Batu_Basiha,hasAtmosphere,Tenang
+res:Batu_Basiha,accessibleBy,Mobil
+res:Batu_Basiha,accessibleBy,Motor
+res:Batu_Basiha,roadCondition,Baik
+res:Batu_Basiha,dbo:location,Toba
+res:Batu_Basiha,dbo:locatedInArea,Tidak Diketahui
+res:Batu_Basiha,dbo:nearbyAttraction,Tidak Diketahui
+res:Batu_Basiha,dbo:transportation,Mobil
+res:Batu_Basiha,dbo:transportation,Motor
+res:Batu_Basiha,dbo:openingHours,Setiap Hari
+res:Batu_Basiha,dbo:parking,Tersedia
+res:Batu_Basiha,hasSubCategory,Formasi Geologi
+res:Batu_Basiha,hasFeature,Spot Foto
+res:Batu_Basiha,suitableFor,Relaksasi
+res:Batu_Basiha,activityType,Hiking
+res:Batu_Basiha,hasAtmosphere,Segar
+res:Batu_Basiha,accessibleBy,Jalan Kaki
+res:Batu_Basiha,roadCondition,Berbatu
+res:Batu_Basiha,dbo:localAuthority,Pemerintah Daerah
+res:Batu_Basiha,dbo:parking,Berbayar
+res:Batu_Basiha,hasDiningOption,Tidak Tersedia
+res:Batu_Basiha,oftenVisitedWith,Keluarga
+res:Batu_Basiha,oftenVisitedWith,Teman
+res:Batu_Basiha,peakTime,Akhir Pekan
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,dct:category,cat:Religi
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,dbo:location,Toba
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,ex:hasAtmosphere,Tenang
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,ex:suitableFor,Keluarga
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,ex:suitableFor,Individu
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,ex:suitableFor,Rombongan
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,ex:activityType,Beribadah
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,ex:activityType,Meditasi
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,ex:activityType,Refleksi Diri
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,ex:hasFeature,Arsitektur Klasik
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,ex:hasFeature,Bangunan Bersejarah
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,ex:hasFeature,Tempat Ibadah
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,dbo:parking,Tersedia
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,dbo:transportation,Mobil
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,dbo:transportation,Motor
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,ex:accessibleBy,Mobil
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,ex:accessibleBy,Motor
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,ex:roadCondition,Baik
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,ex:managementType,Lokal
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,ex:availableFacility,Toilet
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,ex:availableFacility,Area Parkir
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,ex:availableFacility,Ruang Ibadah
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,dbo:openingHours,Setiap Hari
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,ex:peakTime,Akhir Pekan
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,ex:peakTime,Hari Libur
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,ex:peakTime,Hari Minggu
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,dbo:localAuthority,HKBP
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,dct:subject,Kristen
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,ex:hasSubCategory,Gereja
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,ex:hasSubCategory,Tempat Ibadah
+res:TB_Silalahi_Swimming_Pool,dct:category,cat:Buatan
+res:TB_Silalahi_Swimming_Pool,dbo:location,Toba
+res:TB_Silalahi_Swimming_Pool,dbo:locatedInArea,Balige
+res:TB_Silalahi_Swimming_Pool,hasFeature,Kolam Renang
+res:TB_Silalahi_Swimming_Pool,suitableFor,Keluarga
+res:TB_Silalahi_Swimming_Pool,suitableFor,Anak-anak
+res:TB_Silalahi_Swimming_Pool,activityType,Berenang
+res:TB_Silalahi_Swimming_Pool,hasAtmosphere,Santai
+res:TB_Silalahi_Swimming_Pool,hasAtmosphere,Ramai
+res:TB_Silalahi_Swimming_Pool,availableFacility,Toilet
+res:TB_Silalahi_Swimming_Pool,availableFacility,Kamar Ganti
+res:TB_Silalahi_Swimming_Pool,availableFacility,Area Parkir
+res:TB_Silalahi_Swimming_Pool,availableFacility,Penyewaan Ban
+res:TB_Silalahi_Swimming_Pool,hasDiningOption,Kantin
+res:TB_Silalahi_Swimming_Pool,hasDiningOption,Warung Makan
+res:TB_Silalahi_Swimming_Pool,dbo:parking,Tersedia
+res:TB_Silalahi_Swimming_Pool,dbo:parking,Berbayar
+res:TB_Silalahi_Swimming_Pool,accessibleBy,Mobil
+res:TB_Silalahi_Swimming_Pool,accessibleBy,Motor
+res:TB_Silalahi_Swimming_Pool,roadCondition,Baik
+res:TB_Silalahi_Swimming_Pool,managementType,Swasta
+res:TB_Silalahi_Swimming_Pool,hasSubCategory,Wisata Air
+res:TB_Silalahi_Swimming_Pool,hasSubCategory,Rekreasi
+res:TB_Silalahi_Swimming_Pool,oftenVisitedWith,Keluarga
+res:TB_Silalahi_Swimming_Pool,oftenVisitedWith,Teman
+res:TB_Silalahi_Swimming_Pool,dbo:localAuthority,Pemerintah Daerah
+res:TB_Silalahi_Swimming_Pool,hasFeature,Area Bermain Anak
+res:TB_Silalahi_Swimming_Pool,availableFacility,Gazebo
+res:TB_Silalahi_Swimming_Pool,availableFacility,Mushola
+res:TB_Silalahi_Swimming_Pool,availableFacility,Tempat Istirahat
+res:Labersa_Toba_Fantasi_Waterpark,dct:category,cat:Buatan
+res:Labersa_Toba_Fantasi_Waterpark,hasSubCategory,Taman Air
+res:Labersa_Toba_Fantasi_Waterpark,suitableFor,Keluarga
+res:Labersa_Toba_Fantasi_Waterpark,suitableFor,Anak-anak
+res:Labersa_Toba_Fantasi_Waterpark,activityType,Bermain Air
+res:Labersa_Toba_Fantasi_Waterpark,activityType,Berenang
+res:Labersa_Toba_Fantasi_Waterpark,activityType,Rekreasi
+res:Labersa_Toba_Fantasi_Waterpark,hasFeature,Seluncuran Air
+res:Labersa_Toba_Fantasi_Waterpark,hasFeature,Kolam Ombak
+res:Labersa_Toba_Fantasi_Waterpark,hasFeature,Kolam Renang
+res:Labersa_Toba_Fantasi_Waterpark,availableFacility,Toilet
+res:Labersa_Toba_Fantasi_Waterpark,availableFacility,Kamar Ganti
+res:Labersa_Toba_Fantasi_Waterpark,availableFacility,Penyewaan Ban
+res:Labersa_Toba_Fantasi_Waterpark,availableFacility,Area Parkir
+res:Labersa_Toba_Fantasi_Waterpark,hasDiningOption,Restoran
+res:Labersa_Toba_Fantasi_Waterpark,hasDiningOption,Cafe
+res:Labersa_Toba_Fantasi_Waterpark,dbo:parking,Tersedia
+res:Labersa_Toba_Fantasi_Waterpark,dbo:parking,Berbayar
+res:Labersa_Toba_Fantasi_Waterpark,dbo:openingHours,Setiap Hari
+res:Labersa_Toba_Fantasi_Waterpark,ticketPriceRange,Terjangkau
+res:Labersa_Toba_Fantasi_Waterpark,oftenVisitedWith,Keluarga
+res:Labersa_Toba_Fantasi_Waterpark,oftenVisitedWith,Teman
+res:Labersa_Toba_Fantasi_Waterpark,managementType,Swasta
+res:Labersa_Toba_Fantasi_Waterpark,dbo:transportation,Mobil
+res:Labersa_Toba_Fantasi_Waterpark,dbo:transportation,Motor
+res:Labersa_Toba_Fantasi_Waterpark,accessibleBy,Mobil
+res:Labersa_Toba_Fantasi_Waterpark,accessibleBy,Motor
+res:Labersa_Toba_Fantasi_Waterpark,roadCondition,Baik
+res:Labersa_Toba_Fantasi_Waterpark,hasAtmosphere,Ramai
+res:Labersa_Toba_Fantasi_Waterpark,hasAtmosphere,Menyenangkan
+res:Gua_Liang_Sipege,dct:category,cat:Alam
+res:Gua_Liang_Sipege,hasFeature,Formasi Gua
+res:Gua_Liang_Sipege,hasAtmosphere,Sejuk
+res:Gua_Liang_Sipege,suitableFor,Petualang
+res:Gua_Liang_Sipege,activityType,Penjelajahan
+res:Gua_Liang_Sipege,dbo:location,Toba
+res:Gua_Liang_Sipege,dbo:locatedInArea,Tidak Diketahui
+res:Gua_Liang_Sipege,accessibleBy,Jalan Kaki
+res:Gua_Liang_Sipege,roadCondition,Tidak Diketahui
+res:Gua_Liang_Sipege,dbo:transportation,Motor
+res:Gua_Liang_Sipege,dbo:transportation,Mobil
+res:Gua_Liang_Sipege,dbo:openingHours,Tidak Diketahui
+res:Gua_Liang_Sipege,dbo:parking,Tidak Tersedia
+res:Gua_Liang_Sipege,hasLandscape,Perbukitan
+res:Gua_Liang_Sipege,hasSubCategory,Gua
+res:Gua_Liang_Sipege,ex:inTourismZone,Danau Toba
+res:Gua_Liang_Sipege,ex:oftenVisitedWith,Keluarga
+res:Gua_Liang_Sipege,ex:oftenVisitedWith,Teman
+res:Gua_Liang_Sipege,ex:oftenVisitedWith,Turis Asing
+res:Gua_Liang_Sipege,ex:oftenVisitedWith,Turis Lokal
+res:Gua_Liang_Sipege,ex:suitableFor,Fotografi
+res:Gua_Liang_Sipege,ex:suitableFor,Penelitian
+res:Gua_Liang_Sipege,ex:peakTime,Akhir Pekan
+res:Gua_Liang_Sipege,ex:peakTime,Libur Nasional
+res:Gua_Liang_Sipege,ex:hasDiningOption,Tidak Tersedia
+res:Gua_Liang_Sipege,ex:accommodationType,Tidak Tersedia
+res:Gua_Liang_Sipege,ex:availableFacility,Tidak Tersedia
+res:Gua_Liang_Sipege,dbo:nearbyAttraction,Tidak Diketahui
+res:Gua_Liang_Sipege,dct:subject,Alam
+res:Gua_Liang_Sipege,dct:subject,Petualangan
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,dct:category,cat:Sejarah
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,dct:category,cat:Religi
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,ex:hasSubCategory,cat:Situs_Bersejarah
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,ex:suitableFor,Peziarah
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,ex:suitableFor,Wisatawan
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,ex:activityType,Ziarah
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,ex:activityType,Wisata_Sejarah
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,ex:hasFeature,Makam
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,ex:hasFeature,Bangunan_Bersejarah
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,ex:hasAtmosphere,Tenang
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,ex:hasAtmosphere,Sakral
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,dbo:location,Toba
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,dbo:locatedInArea,Sigumpar
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,dbo:parking,Tersedia
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,dbo:openingHours,Setiap Hari
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,ex:accessibleBy,Mobil
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,ex:accessibleBy,Motor
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,ex:roadCondition,Baik
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,dbo:localAuthority,Pemerintah_Daerah
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,ex:managementType,Dikelola_Lokal
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,dbo:nearbyAttraction,Museum_TB_Silalahi_Center
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,dbo:nearbyAttraction,Balige
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,ex:oftenVisitedWith,Keluarga
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,ex:oftenVisitedWith,Teman
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,ex:availableFacility,Area_Parkir
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,ex:availableFacility,Toilet
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,ex:availableFacility,Tempat_Istirahat
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,ex:hasLandscape,Perbukitan
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,ex:hasLandscape,Pedesaan
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,dct:subject,Sejarah_Kristen
+res:Tomb_of_king_Sisingamangaraja_XII,dct:category,cat:Sejarah
+res:Tomb_of_king_Sisingamangaraja_XII,hasCategory,cat:Budaya
+res:Tomb_of_king_Sisingamangaraja_XII,dbo:location,Toba
+res:Tomb_of_king_Sisingamangaraja_XII,dbo:locatedInArea,Bakti Raja
+res:Tomb_of_king_Sisingamangaraja_XII,hasFeature,Makam Raja
+res:Tomb_of_king_Sisingamangaraja_XII,hasFeature,Situs Sejarah
+res:Tomb_of_king_Sisingamangaraja_XII,dct:subject,Sejarah Batak
+res:Tomb_of_king_Sisingamangaraja_XII,dct:subject,Sisingamangaraja XII
+res:Tomb_of_king_Sisingamangaraja_XII,managementType,Pemerintah Daerah
+res:Tomb_of_king_Sisingamangaraja_XII,suitableFor,Wisatawan Sejarah
+res:Tomb_of_king_Sisingamangaraja_XII,suitableFor,Keluarga
+res:Tomb_of_king_Sisingamangaraja_XII,accessibleBy,Mobil
+res:Tomb_of_king_Sisingamangaraja_XII,accessibleBy,Motor
+res:Tomb_of_king_Sisingamangaraja_XII,dbo:parking,Tersedia
+res:Tomb_of_king_Sisingamangaraja_XII,dbo:openingHours,Setiap Hari
+res:Tomb_of_king_Sisingamangaraja_XII,hasAtmosphere,Tenang
+res:Tomb_of_king_Sisingamangaraja_XII,hasAtmosphere,Sakral
+res:Tomb_of_king_Sisingamangaraja_XII,dbo:nearbyAttraction,Museum_Batak_TB_Silalahi_Center
+res:Tomb_of_king_Sisingamangaraja_XII,dbo:nearbyAttraction,Balige
+res:Tomb_of_king_Sisingamangaraja_XII,dbo:locatedInRegency,Toba
+res:Tomb_of_king_Sisingamangaraja_XII,oftenVisitedWith,Keluarga
+res:Tomb_of_king_Sisingamangaraja_XII,oftenVisitedWith,Teman
+res:Tomb_of_king_Sisingamangaraja_XII,activityType,Wisata Sejarah
+res:Tomb_of_king_Sisingamangaraja_XII,activityType,Ziarah
+res:Tomb_of_king_Sisingamangaraja_XII,availableFacility,Area Parkir
+res:Tomb_of_king_Sisingamangaraja_XII,availableFacility,Toilet
+res:Tomb_of_king_Sisingamangaraja_XII,availableFacility,Mushola
+res:Tomb_of_king_Sisingamangaraja_XII,ticketPriceRange,Terjangkau
+res:Tomb_of_king_Sisingamangaraja_XII,hasSubCategory,Makam
+res:Tomb_of_king_Sisingamangaraja_XII,hasSubCategory,Monumen
+res:Mual_Sirambe_Nauli,dct:category,cat:Alam
+res:Mual_Sirambe_Nauli,ex:hasAtmosphere,Tenang
+res:Mual_Sirambe_Nauli,ex:suitableFor,Keluarga
+res:Mual_Sirambe_Nauli,ex:suitableFor,Anak-anak
+res:Mual_Sirambe_Nauli,ex:suitableFor,Dewasa
+res:Mual_Sirambe_Nauli,ex:activityType,Bersantai
+res:Mual_Sirambe_Nauli,ex:activityType,Berfoto
+res:Mual_Sirambe_Nauli,ex:activityType,Menikmati Pemandangan
+res:Mual_Sirambe_Nauli,ex:hasLandscape,Perbukitan
+res:Mual_Sirambe_Nauli,ex:hasLandscape,Pepohonan
+res:Mual_Sirambe_Nauli,ex:roadCondition,Baik
+res:Mual_Sirambe_Nauli,dbo:parking,Tersedia
+res:Mual_Sirambe_Nauli,dbo:openingHours,Setiap Hari
+res:Mual_Sirambe_Nauli,ex:ticketPriceRange,Terjangkau
+res:Mual_Sirambe_Nauli,ex:accessibleBy,Mobil
+res:Mual_Sirambe_Nauli,ex:accessibleBy,Motor
+res:Mual_Sirambe_Nauli,dbo:transportation,Mobil
+res:Mual_Sirambe_Nauli,dbo:transportation,Motor
+res:Mual_Sirambe_Nauli,ex:hasDiningOption,Tidak Tersedia
+res:Mual_Sirambe_Nauli,ex:accommodationType,Tidak Tersedia
+res:Mual_Sirambe_Nauli,dct:subject,Wisata Alam
+res:Mual_Sirambe_Nauli,ex:inTourismZone,Danau Toba
+res:Mual_Sirambe_Nauli,ex:oftenVisitedWith,Keluarga
+res:Mual_Sirambe_Nauli,ex:oftenVisitedWith,Teman
+res:Mual_Sirambe_Nauli,ex:peakTime,Akhir Pekan
+res:Mual_Sirambe_Nauli,geo:locatedIn,Kab_Simalungun
+res:Mual_Sirambe_Nauli,ex:waterSource,Mata Air
+res:Mual_Sirambe_Nauli,ex:waterClarity,Jernih
+res:Mual_Sirambe_Nauli,ex:waterTemperature,Sejuk
+res:Mual_Sirambe_Nauli,dbo:elevation,Tinggi
+res:Museum_Batak_TB_Silalahi_Center,dct:category,cat:Sejarah
+res:Museum_Batak_TB_Silalahi_Center,dct:category,cat:Budaya
+res:Museum_Batak_TB_Silalahi_Center,hasCategory,cat:Edukasi
+res:Museum_Batak_TB_Silalahi_Center,dbo:locatedInArea,Balige
+res:Museum_Batak_TB_Silalahi_Center,dbo:location,Toba
+res:Museum_Batak_TB_Silalahi_Center,hasFeature,Artefak Batak
+res:Museum_Batak_TB_Silalahi_Center,hasFeature,Sejarah Batak
+res:Museum_Batak_TB_Silalahi_Center,hasFeature,Miniatur Rumah Adat
+res:Museum_Batak_TB_Silalahi_Center,hasFeature,Koleksi Pakaian Adat
+res:Museum_Batak_TB_Silalahi_Center,hasFeature,Peralatan Tradisional
+res:Museum_Batak_TB_Silalahi_Center,dbo:openingHours,09.00 - 17.00 WIB
+res:Museum_Batak_TB_Silalahi_Center,dbo:parking,Tersedia
+res:Museum_Batak_TB_Silalahi_Center,dbo:parking,Mobil
+res:Museum_Batak_TB_Silalahi_Center,dbo:parking,Motor
+res:Museum_Batak_TB_Silalahi_Center,dbo:transportation,Mobil
+res:Museum_Batak_TB_Silalahi_Center,dbo:transportation,Motor
+res:Museum_Batak_TB_Silalahi_Center,suitableFor,Keluarga
+res:Museum_Batak_TB_Silalahi_Center,suitableFor,Pelajar
+res:Museum_Batak_TB_Silalahi_Center,suitableFor,Wisatawan
+res:Museum_Batak_TB_Silalahi_Center,availableFacility,Toilet
+res:Museum_Batak_TB_Silalahi_Center,availableFacility,Mushola
+res:Museum_Batak_TB_Silalahi_Center,availableFacility,Area Parkir
+res:Museum_Batak_TB_Silalahi_Center,availableFacility,Toko Souvenir
+res:Museum_Batak_TB_Silalahi_Center,hasDiningOption,Restoran
+res:Museum_Batak_TB_Silalahi_Center,hasLocalCuisine,Masakan Batak
+res:Museum_Batak_TB_Silalahi_Center,activityType,Wisata Budaya
+res:Museum_Batak_TB_Silalahi_Center,activityType,Wisata Sejarah
+res:Museum_Batak_TB_Silalahi_Center,activityType,Wisata Edukasi
+res:Museum_Batak_TB_Silalahi_Center,managementType,Dikelola Swasta
+res:Museum_Batak_TB_Silalahi_Center,roadCondition,Baik
+res:Lumban_Binanga_Beach_Laguboti,dbo:locatedInArea,Laguboti
+res:Lumban_Binanga_Beach_Laguboti,dbo:location,Toba
+res:Lumban_Binanga_Beach_Laguboti,dct:category,cat:Alam
+res:Lumban_Binanga_Beach_Laguboti,hasFeature,Pantai
+res:Lumban_Binanga_Beach_Laguboti,hasLandscape,Pemandangan Danau Toba
+res:Lumban_Binanga_Beach_Laguboti,suitableFor,Keluarga
+res:Lumban_Binanga_Beach_Laguboti,suitableFor,Anak-anak
+res:Lumban_Binanga_Beach_Laguboti,activityType,Bersantai
+res:Lumban_Binanga_Beach_Laguboti,activityType,Berenang
+res:Lumban_Binanga_Beach_Laguboti,accessibleBy,Mobil
+res:Lumban_Binanga_Beach_Laguboti,accessibleBy,Motor
+res:Lumban_Binanga_Beach_Laguboti,roadCondition,Baik
+res:Lumban_Binanga_Beach_Laguboti,dbo:parking,Tersedia
+res:Lumban_Binanga_Beach_Laguboti,hasAtmosphere,Tenang
+res:Lumban_Binanga_Beach_Laguboti,hasAtmosphere,Sejuk
+res:Lumban_Binanga_Beach_Laguboti,dbo:nearbyAttraction,Pantai_Pasir_Putih_Parbaba
+res:Lumban_Binanga_Beach_Laguboti,dbo:nearbyAttraction,Balige
+res:Lumban_Binanga_Beach_Laguboti,hasDiningOption,Warung_Makan
+res:Lumban_Binanga_Beach_Laguboti,hasLocalCuisine,Ikan_Bakar
+res:Lumban_Binanga_Beach_Laguboti,dbo:transportation,Mobil
+res:Lumban_Binanga_Beach_Laguboti,dbo:transportation,Motor
+res:Lumban_Binanga_Beach_Laguboti,dbo:openingHours,Setiap_Hari
+res:Lumban_Binanga_Beach_Laguboti,oftenVisitedWith,Keluarga
+res:Lumban_Binanga_Beach_Laguboti,oftenVisitedWith,Teman
+res:Lumban_Binanga_Beach_Laguboti,ex:inTourismZone,Danau_Toba
+res:Lumban_Binanga_Beach_Laguboti,hasSubCategory,Pantai_Danau
+res:Lumban_Binanga_Beach_Laguboti,dct:subject,Wisata_Air
+res:Lumban_Binanga_Beach_Laguboti,dbo:localAuthority,Pemerintah_Daerah
+res:Lumban_Binanga_Beach_Laguboti,managementType,Dikelola_Lokal
+res:Lumban_Binanga_Beach_Laguboti,dbo:nearbyAttraction,Bukit_Singgolom
+res:Pantai_Lumban_Silintong,dbo:locatedInArea,Balige
+res:Pantai_Lumban_Silintong,dbo:location,Toba
+res:Pantai_Lumban_Silintong,ex:hasAtmosphere,Tenang
+res:Pantai_Lumban_Silintong,ex:suitableFor,Keluarga
+res:Pantai_Lumban_Silintong,ex:suitableFor,Anak-anak
+res:Pantai_Lumban_Silintong,ex:suitableFor,Wisatawan
+res:Pantai_Lumban_Silintong,ex:activityType,Bersantai
+res:Pantai_Lumban_Silintong,ex:activityType,Berenang
+res:Pantai_Lumban_Silintong,ex:activityType,Bermain_Air
+res:Pantai_Lumban_Silintong,ex:accessibleBy,Mobil
+res:Pantai_Lumban_Silintong,ex:accessibleBy,Motor
+res:Pantai_Lumban_Silintong,dbo:transportation,Mobil
+res:Pantai_Lumban_Silintong,dbo:transportation,Motor
+res:Pantai_Lumban_Silintong,dbo:parking,Tersedia
+res:Pantai_Lumban_Silintong,ex:roadCondition,Baik
+res:Pantai_Lumban_Silintong,ex:hasLandscape,Pantai
+res:Pantai_Lumban_Silintong,ex:hasLandscape,Danau
+res:Pantai_Lumban_Silintong,ex:hasLandscape,Pegunungan
+res:Pantai_Lumban_Silintong,ex:inTourismZone,Danau_Toba
+res:Pantai_Lumban_Silintong,ex:hasFeature,Pasir_Pantai
+res:Pantai_Lumban_Silintong,ex:hasFeature,Air_Danau
+res:Pantai_Lumban_Silintong,dct:subject,Wisata_Pantai
+res:Pantai_Lumban_Silintong,dct:subject,Wisata_Danau
+res:Pantai_Lumban_Silintong,ex:hasDiningOption,Warung_Makan
+res:Pantai_Lumban_Silintong,ex:hasLocalCuisine,Ikan_Bakar
+res:Pantai_Lumban_Silintong,ex:hasLocalCuisine,Naniura
+res:Pantai_Lumban_Silintong,ex:hasLocalCuisine,Arsik
+res:Pantai_Lumban_Silintong,dbo:localAuthority,Pemerintah_Kabupaten_Toba
+res:Pantai_Lumban_Silintong,ex:oftenVisitedWith,Keluarga
+res:Pantai_Lumban_Silintong,ex:oftenVisitedWith,Teman
+res:Pantai_Pakodian,dct:category,cat:Alam
+res:Pantai_Pakodian,ex:hasLandscape,Panorama Danau Toba
+res:Pantai_Pakodian,ex:suitableFor,Keluarga
+res:Pantai_Pakodian,ex:suitableFor,Anak-anak
+res:Pantai_Pakodian,ex:suitableFor,Wisatawan
+res:Pantai_Pakodian,ex:activityType,Bersantai
+res:Pantai_Pakodian,ex:activityType,Berenang
+res:Pantai_Pakodian,ex:activityType,Menikmati Pemandangan
+res:Pantai_Pakodian,dbo:location,Toba
+res:Pantai_Pakodian,ex:hasAtmosphere,Tenang
+res:Pantai_Pakodian,ex:hasAtmosphere,Damai
+res:Pantai_Pakodian,ex:hasFeature,Pantai
+res:Pantai_Pakodian,ex:hasFeature,Pasir
+res:Pantai_Pakodian,ex:hasFeature,Air Danau
+res:Pantai_Pakodian,dbo:transportation,Mobil
+res:Pantai_Pakodian,dbo:transportation,Motor
+res:Pantai_Pakodian,ex:roadCondition,Baik
+res:Pantai_Pakodian,ex:inTourismZone,Danau Toba
+res:Pantai_Pakodian,ex:hasDiningOption,Warung Makan
+res:Pantai_Pakodian,ex:hasLocalCuisine,Ikan Bakar
+res:Pantai_Pakodian,ex:hasLocalCuisine,Naniura
+res:Pantai_Pakodian,dbo:openingHours,Setiap Hari
+res:Pantai_Pakodian,dbo:parking,Tersedia
+res:Pantai_Pakodian,dbo:parking,Motor
+res:Pantai_Pakodian,dbo:parking,Mobil
+res:Pantai_Pakodian,ex:accessibleBy,Kendaraan Pribadi
+res:Pantai_Pakodian,ex:accessibleBy,Angkutan Umum
+res:Pantai_Pakodian,ex:oftenVisitedWith,Keluarga
+res:Pantai_Pakodian,ex:oftenVisitedWith,Teman
+res:Pantai_Pakodian,ex:oftenVisitedWith,Pasangan
+res:Pantai_Pasir_Putih_Parparean,dct:category,cat:Alam
+res:Pantai_Pasir_Putih_Parparean,dbo:location,Toba
+res:Pantai_Pasir_Putih_Parparean,ex:hasFeature,Pantai Berpasir Putih
+res:Pantai_Pasir_Putih_Parparean,ex:suitableFor,Keluarga
+res:Pantai_Pasir_Putih_Parparean,ex:suitableFor,Anak-anak
+res:Pantai_Pasir_Putih_Parparean,ex:activityType,Berenang
+res:Pantai_Pasir_Putih_Parparean,ex:activityType,Bermain Pasir
+res:Pantai_Pasir_Putih_Parparean,ex:activityType,Bersantai
+res:Pantai_Pasir_Putih_Parparean,ex:hasLandscape,Pemandangan Danau Toba
+res:Pantai_Pasir_Putih_Parparean,ex:hasAtmosphere,Sejuk
+res:Pantai_Pasir_Putih_Parparean,ex:hasAtmosphere,Tenang
+res:Pantai_Pasir_Putih_Parparean,ex:accessibleBy,Mobil
+res:Pantai_Pasir_Putih_Parparean,ex:accessibleBy,Motor
+res:Pantai_Pasir_Putih_Parparean,dbo:transportation,Mobil
+res:Pantai_Pasir_Putih_Parparean,dbo:transportation,Motor
+res:Pantai_Pasir_Putih_Parparean,ex:roadCondition,Baik
+res:Pantai_Pasir_Putih_Parparean,ex:hasDiningOption,Warung Makan
+res:Pantai_Pasir_Putih_Parparean,ex:hasLocalCuisine,Ikan Bakar
+res:Pantai_Pasir_Putih_Parparean,ex:hasLocalCuisine,Nasi Goreng
+res:Pantai_Pasir_Putih_Parparean,ex:availableFacility,Area Parkir
+res:Pantai_Pasir_Putih_Parparean,ex:availableFacility,Tempat Duduk
+res:Pantai_Pasir_Putih_Parparean,ex:availableFacility,Payung Pantai
+res:Pantai_Pasir_Putih_Parparean,dbo:parking,Tersedia
+res:Pantai_Pasir_Putih_Parparean,dbo:parking,Berbayar
+res:Pantai_Pasir_Putih_Parparean,ex:ticketPriceRange,Terjangkau
+res:Pantai_Pasir_Putih_Parparean,ex:oftenVisitedWith,Keluarga
+res:Pantai_Pasir_Putih_Parparean,ex:oftenVisitedWith,Teman
+res:Pantai_Pasir_Putih_Parparean,ex:oftenVisitedWith,Pasangan
+res:Pantai_Pasir_Putih_Parparean,dbo:locatedInArea,Porsea
+res:Pantai_Pasir_Putih_Parparean,ex:inTourismZone,Danau Toba
+res:Pantai_BUL_BUL,dct:category,cat:Alam
+res:Pantai_BUL_BUL,dbo:locatedInArea,Balige
+res:Pantai_BUL_BUL,dbo:location,Toba
+res:Pantai_BUL_BUL,ex:hasLandscape,Panorama Danau Toba
+res:Pantai_BUL_BUL,ex:suitableFor,Keluarga
+res:Pantai_BUL_BUL,ex:suitableFor,Anak-anak
+res:Pantai_BUL_BUL,ex:activityType,Berenang
+res:Pantai_BUL_BUL,ex:activityType,Bersantai
+res:Pantai_BUL_BUL,ex:activityType,Bermain Air
+res:Pantai_BUL_BUL,ex:accessibleBy,Mobil
+res:Pantai_BUL_BUL,ex:accessibleBy,Motor
+res:Pantai_BUL_BUL,dbo:transportation,Angkutan Umum
+res:Pantai_BUL_BUL,ex:roadCondition,Baik
+res:Pantai_BUL_BUL,ex:hasAtmosphere,Ramai
+res:Pantai_BUL_BUL,ex:hasAtmosphere,Santai
+res:Pantai_BUL_BUL,ex:hasFeature,Pasir Putih
+res:Pantai_BUL_BUL,ex:hasFeature,Area Bermain
+res:Pantai_BUL_BUL,ex:hasFeature,Spot Foto
+res:Pantai_BUL_BUL,dbo:parking,Tersedia
+res:Pantai_BUL_BUL,dbo:parking,Berbayar
+res:Pantai_BUL_BUL,ex:availableFacility,Toilet
+res:Pantai_BUL_BUL,ex:availableFacility,Kamar Ganti
+res:Pantai_BUL_BUL,ex:availableFacility,Area Parkir
+res:Pantai_BUL_BUL,ex:hasDiningOption,Warung Makan
+res:Pantai_BUL_BUL,ex:hasLocalCuisine,Ikan Bakar
+res:Pantai_BUL_BUL,ex:hasSubCategory,Pantai
+res:Pantai_BUL_BUL,dbo:localAuthority,Pemerintah Daerah Toba
+res:Pantai_BUL_BUL,ex:inTourismZone,Kawasan Danau Toba
+res:Pantai_BUL_BUL,ex:oftenVisitedWith,Keluarga
+res:Pantai_BUL_BUL,ex:oftenVisitedWith,Teman
+res:Puncak_Sibodiala,dct:category,cat:Alam
+res:Puncak_Sibodiala,ex:hasLandscape,Panorama Danau Toba
+res:Puncak_Sibodiala,ex:suitableFor,Keluarga
+res:Puncak_Sibodiala,ex:suitableFor,Fotografi
+res:Puncak_Sibodiala,ex:activityType,Mendaki
+res:Puncak_Sibodiala,ex:activityType,Fotografi
+res:Puncak_Sibodiala,ex:hasFeature,Pemandangan Alam
+res:Puncak_Sibodiala,ex:hasFeature,Spot Foto
+res:Puncak_Sibodiala,ex:hasAtmosphere,Sejuk
+res:Puncak_Sibodiala,ex:accessibleBy,Mobil
+res:Puncak_Sibodiala,ex:accessibleBy,Motor
+res:Puncak_Sibodiala,dbo:transportation,Mobil
+res:Puncak_Sibodiala,dbo:transportation,Motor
+res:Puncak_Sibodiala,dbo:parking,Tersedia
+res:Puncak_Sibodiala,dbo:parking,Berbayar
+res:Puncak_Sibodiala,ex:roadCondition,Baik
+res:Puncak_Sibodiala,ex:peakTime,Akhir Pekan
+res:Puncak_Sibodiala,ex:peakTime,Hari Libur
+res:Puncak_Sibodiala,dbo:nearbyAttraction,Bukit_Holbung
+res:Puncak_Sibodiala,dbo:nearbyAttraction,Menara_Pandang_Tele
+res:Puncak_Sibodiala,ex:oftenVisitedWith,Keluarga
+res:Puncak_Sibodiala,ex:oftenVisitedWith,Teman
+res:Puncak_Sibodiala,ex:hasSubCategory,Puncak
+res:Puncak_Sibodiala,ex:hasSubCategory,Perbukitan
+res:Puncak_Sibodiala,ex:hasFeature,Perbukitan
+res:Puncak_Sibodiala,ex:hasFeature,View Point
+res:Puncak_Sibodiala,ex:hasAtmosphere,Tenang
+res:Puncak_Sibodiala,ex:suitableFor,Wisatawan
+res:Puncak_Sibodiala,ex:suitableFor,Pendaki
+res:Puncak_Sibodiala,ex:activityType,Bersantai
+res:Siregar_Aek_Nalas,dbo:locatedInArea,Ajibata
+res:Siregar_Aek_Nalas,dbo:location,Toba
+res:Siregar_Aek_Nalas,dct:category,cat:Alam
+res:Siregar_Aek_Nalas,ex:hasLandscape,Panorama Danau Toba
+res:Siregar_Aek_Nalas,ex:hasFeature,Spot Foto
+res:Siregar_Aek_Nalas,ex:suitableFor,Keluarga
+res:Siregar_Aek_Nalas,ex:suitableFor,Wisatawan
+res:Siregar_Aek_Nalas,ex:accessibleBy,Mobil
+res:Siregar_Aek_Nalas,ex:accessibleBy,Motor
+res:Siregar_Aek_Nalas,dbo:parking,Tersedia
+res:Siregar_Aek_Nalas,ex:roadCondition,Baik
+res:Siregar_Aek_Nalas,ex:activityType,Bersantai
+res:Siregar_Aek_Nalas,ex:activityType,Menikmati Pemandangan
+res:Siregar_Aek_Nalas,ex:hasAtmosphere,Sejuk
+res:Siregar_Aek_Nalas,ex:hasAtmosphere,Tenang
+res:Siregar_Aek_Nalas,ex:inTourismZone,Danau Toba
+res:Siregar_Aek_Nalas,dbo:localAuthority,Pemerintah Daerah Toba
+res:Siregar_Aek_Nalas,dct:subject,Pariwisata
+res:Siregar_Aek_Nalas,ex:hasSubCategory,Tempat Wisata
+res:Siregar_Aek_Nalas,ex:hasSubCategory,Pemandangan Alam
+res:Siregar_Aek_Nalas,ex:oftenVisitedWith,Keluarga
+res:Siregar_Aek_Nalas,ex:oftenVisitedWith,Teman
+res:Siregar_Aek_Nalas,dbo:nearbyAttraction,Pantai_Apas_Ajibata
+res:Siregar_Aek_Nalas,dbo:nearbyAttraction,Bukit_Tarabunga
+res:Siregar_Aek_Nalas,ex:peakTime,Akhir Pekan
+res:Siregar_Aek_Nalas,ex:peakTime,Hari Libur Nasional
+res:Siregar_Aek_Nalas,ex:hasDiningOption,Warung Makan
+res:Siregar_Aek_Nalas,ex:hasLocalCuisine,Ikan Bakar
+res:Siregar_Aek_Nalas,ex:hasLocalCuisine,Naniura
+res:Siregar_Aek_Nalas,dbo:transportation,Angkutan Umum
+res:The_Kaldera,dct:category,cat:Alam
+res:The_Kaldera,hasLandscape,Panorama Danau Toba
+res:The_Kaldera,dbo:location,Toba
+res:The_Kaldera,dbo:locatedInArea,Ajibata
+res:The_Kaldera,hasFeature,Spot Foto
+res:The_Kaldera,hasFeature,Pemandangan Danau
+res:The_Kaldera,hasAtmosphere,Sejuk
+res:The_Kaldera,suitableFor,Keluarga
+res:The_Kaldera,suitableFor,Wisatawan
+res:The_Kaldera,activityType,Fotografi
+res:The_Kaldera,activityType,Bersantai
+res:The_Kaldera,dbo:openingHours,Setiap Hari
+res:The_Kaldera,dbo:parking,Tersedia
+res:The_Kaldera,accessibleBy,Mobil
+res:The_Kaldera,accessibleBy,Motor
+res:The_Kaldera,roadCondition,Baik
+res:The_Kaldera,hasDiningOption,Restoran
+res:The_Kaldera,hasDiningOption,Cafe
+res:The_Kaldera,availableFacility,Toilet
+res:The_Kaldera,availableFacility,Mushola
+res:The_Kaldera,availableFacility,Area Parkir
+res:The_Kaldera,accommodationType,Glamping
+res:The_Kaldera,accommodationType,Penginapan
+res:The_Kaldera,dbo:nearbyAttraction,Bukit_Singgolom
+res:The_Kaldera,dbo:nearbyAttraction,Pantai_Ajjibata
+res:The_Kaldera,dbo:nearbyAttraction,Danau_Toba
+res:The_Kaldera,ex:inTourismZone,Danau Toba
+res:The_Kaldera,ex:hasSubCategory,Wisata Alam
+res:The_Kaldera,ex:hasSubCategory,Glamping
+res:The_Kaldera,ex:hasSubCategory,Penginapan
+res:Puncak_Tara_Bunga,dct:category,cat:Alam
+res:Puncak_Tara_Bunga,ex:hasLandscape,Panorama Danau Toba
+res:Puncak_Tara_Bunga,dbo:location,Toba
+res:Puncak_Tara_Bunga,ex:roadCondition,Baik
+res:Puncak_Tara_Bunga,ex:suitableFor,Keluarga
+res:Puncak_Tara_Bunga,ex:suitableFor,Fotografi
+res:Puncak_Tara_Bunga,ex:activityType,Melihat Pemandangan
+res:Puncak_Tara_Bunga,ex:hasFeature,Spot Foto
+res:Puncak_Tara_Bunga,ex:hasAtmosphere,Sejuk
+res:Puncak_Tara_Bunga,dbo:transportation,Mobil
+res:Puncak_Tara_Bunga,dbo:transportation,Motor
+res:Puncak_Tara_Bunga,ex:accessibleBy,Kendaraan Pribadi
+res:Puncak_Tara_Bunga,ex:hasDiningOption,Warung Makan
+res:Puncak_Tara_Bunga,dbo:parking,Tersedia
+res:Puncak_Tara_Bunga,dbo:openingHours,Setiap Hari
+res:Puncak_Tara_Bunga,ex:ticketPriceRange,Terjangkau
+res:Puncak_Tara_Bunga,ex:oftenVisitedWith,Keluarga
+res:Puncak_Tara_Bunga,ex:oftenVisitedWith,Teman
+res:Puncak_Tara_Bunga,ex:hasSubCategory,Puncak
+res:Puncak_Tara_Bunga,dbo:localAuthority,Pemerintah Daerah
+res:Puncak_Tara_Bunga,dct:subject,Pemandangan
+res:Puncak_Tara_Bunga,ex:hasFeature,Perbukitan
+res:Puncak_Tara_Bunga,ex:suitableFor,Wisatawan Domestik
+res:Puncak_Tara_Bunga,ex:suitableFor,Wisatawan Asing
+res:Puncak_Tara_Bunga,ex:activityType,Bersantai
+res:Puncak_Tara_Bunga,ex:hasLandscape,Pegunungan
+res:Puncak_Tara_Bunga,ex:hasAtmosphere,Tenang
+res:Puncak_Tara_Bunga,ex:inTourismZone,Danau Toba
+res:Puncak_Tara_Bunga,ex:hasFacility,Toilet
+res:Puncak_Tara_Bunga,ex:hasFacility,Area Parkir
+res:Taman_Doa_Gurgur_(YPKG),dct:category,cat:Religi
+res:Taman_Doa_Gurgur_(YPKG),hasAtmosphere,Tenang
+res:Taman_Doa_Gurgur_(YPKG),hasAtmosphere,Damai
+res:Taman_Doa_Gurgur_(YPKG),suitableFor,Keluarga
+res:Taman_Doa_Gurgur_(YPKG),suitableFor,Individu
+res:Taman_Doa_Gurgur_(YPKG),suitableFor,Kelompok
+res:Taman_Doa_Gurgur_(YPKG),activityType,Meditasi
+res:Taman_Doa_Gurgur_(YPKG),activityType,Refleksi
+res:Taman_Doa_Gurgur_(YPKG),activityType,Ziarah
+res:Taman_Doa_Gurgur_(YPKG),hasFeature,Patung Religi
+res:Taman_Doa_Gurgur_(YPKG),hasFeature,Taman
+res:Taman_Doa_Gurgur_(YPKG),hasFeature,Area Doa
+res:Taman_Doa_Gurgur_(YPKG),dbo:openingHours,Setiap Hari
+res:Taman_Doa_Gurgur_(YPKG),dbo:parking,Tersedia
+res:Taman_Doa_Gurgur_(YPKG),dbo:transportation,Mobil
+res:Taman_Doa_Gurgur_(YPKG),dbo:transportation,Motor
+res:Taman_Doa_Gurgur_(YPKG),accessibleBy,Mobil
+res:Taman_Doa_Gurgur_(YPKG),accessibleBy,Motor
+res:Taman_Doa_Gurgur_(YPKG),roadCondition,Baik
+res:Taman_Doa_Gurgur_(YPKG),availableFacility,Area Parkir
+res:Taman_Doa_Gurgur_(YPKG),availableFacility,Toilet
+res:Taman_Doa_Gurgur_(YPKG),availableFacility,Tempat Duduk
+res:Taman_Doa_Gurgur_(YPKG),managementType,Swasta
+res:Taman_Doa_Gurgur_(YPKG),ticketPriceRange,Terjangkau
+res:Taman_Doa_Gurgur_(YPKG),oftenVisitedWith,Keluarga
+res:Taman_Doa_Gurgur_(YPKG),oftenVisitedWith,Teman
+res:Taman_Doa_Gurgur_(YPKG),hasLandscape,Perbukitan
+res:Taman_Doa_Gurgur_(YPKG),hasLandscape,Pepohonan
+res:Taman_Doa_Gurgur_(YPKG),hasSubCategory,Tempat Ibadah
+res:Taman_Doa_Gurgur_(YPKG),hasSubCategory,Taman Religi
+res:Taman_Eden_100_Toba,dct:category,cat:Agrowisata
+res:Taman_Eden_100_Toba,dbo:location,Toba
+res:Taman_Eden_100_Toba,ex:hasLandscape,Perbukitan
+res:Taman_Eden_100_Toba,ex:suitableFor,Keluarga
+res:Taman_Eden_100_Toba,ex:suitableFor,Anak-anak
+res:Taman_Eden_100_Toba,ex:activityType,Hiking
+res:Taman_Eden_100_Toba,ex:activityType,Berkemah
+res:Taman_Eden_100_Toba,ex:hasAtmosphere,Sejuk
+res:Taman_Eden_100_Toba,ex:hasAtmosphere,Tenang
+res:Taman_Eden_100_Toba,dbo:parking,Tersedia
+res:Taman_Eden_100_Toba,dbo:transportation,Mobil
+res:Taman_Eden_100_Toba,dbo:transportation,Motor
+res:Taman_Eden_100_Toba,ex:roadCondition,Baik
+res:Taman_Eden_100_Toba,ex:accessibleBy,Kendaraan Pribadi
+res:Taman_Eden_100_Toba,ex:availableFacility,Toilet
+res:Taman_Eden_100_Toba,ex:availableFacility,Area Camping
+res:Taman_Eden_100_Toba,ex:availableFacility,Spot Foto
+res:Taman_Eden_100_Toba,ex:hasSubCategory,Taman
+res:Taman_Eden_100_Toba,ex:hasSubCategory,Kebun
+res:Taman_Eden_100_Toba,ex:hasFeature,Tanaman Hias
+res:Taman_Eden_100_Toba,ex:hasFeature,Pohon Buah
+res:Taman_Eden_100_Toba,ex:hasFeature,Area Piknik
+res:Taman_Eden_100_Toba,ex:hasLandscape,Pegunungan
+res:Taman_Eden_100_Toba,ex:hasLandscape,Hutan
+res:Taman_Eden_100_Toba,ex:activityType,Relaksasi
+res:Taman_Eden_100_Toba,ex:activityType,Edukasi
+res:Taman_Eden_100_Toba,ex:suitableFor,Wisatawan Domestik
+res:Taman_Eden_100_Toba,ex:suitableFor,Wisatawan Mancanegara
+res:Taman_Eden_100_Toba,dbo:openingHours,Setiap Hari
+res:Taman_Eden_100_Toba,ex:inTourismZone,Danau Toba
+res:Wisata_Bukit_Gibeon,dct:category,cat:Alam
+res:Wisata_Bukit_Gibeon,dbo:location,Toba
+res:Wisata_Bukit_Gibeon,dbo:locatedInArea,Ajibata
+res:Wisata_Bukit_Gibeon,ex:hasLandscape,Perbukitan
+res:Wisata_Bukit_Gibeon,ex:hasAtmosphere,Sejuk
+res:Wisata_Bukit_Gibeon,ex:suitableFor,Keluarga
+res:Wisata_Bukit_Gibeon,ex:suitableFor,Anak-anak
+res:Wisata_Bukit_Gibeon,ex:suitableFor,Dewasa
+res:Wisata_Bukit_Gibeon,ex:activityType,Bersantai
+res:Wisata_Bukit_Gibeon,ex:activityType,Berfoto
+res:Wisata_Bukit_Gibeon,ex:roadCondition,Baik
+res:Wisata_Bukit_Gibeon,dbo:parking,Tersedia
+res:Wisata_Bukit_Gibeon,dbo:openingHours,Setiap Hari
+res:Wisata_Bukit_Gibeon,ex:ticketPriceRange,Terjangkau
+res:Wisata_Bukit_Gibeon,ex:hasFeature,Pemandangan Indah
+res:Wisata_Bukit_Gibeon,ex:hasFeature,Spot Foto
+res:Wisata_Bukit_Gibeon,ex:availableFacility,Toilet
+res:Wisata_Bukit_Gibeon,ex:availableFacility,Mushola
+res:Wisata_Bukit_Gibeon,ex:availableFacility,Gazebo
+res:Wisata_Bukit_Gibeon,ex:availableFacility,Area Parkir
+res:Wisata_Bukit_Gibeon,ex:hasDiningOption,Tersedia
+res:Wisata_Bukit_Gibeon,ex:hasLocalCuisine,Tidak Tersedia
+res:Wisata_Bukit_Gibeon,ex:accommodationType,Tidak Tersedia
+res:Wisata_Bukit_Gibeon,dbo:transportation,Mobil
+res:Wisata_Bukit_Gibeon,dbo:transportation,Motor
+res:Wisata_Bukit_Gibeon,dbo:localAuthority,Pemerintah Daerah
+res:Wisata_Bukit_Gibeon,ex:inTourismZone,Danau Toba
+res:Wisata_Bukit_Gibeon,ex:accessibleBy,Kendaraan Pribadi
+res:Wisata_Bukit_Gibeon,ex:accessibleBy,Angkutan Umum
+res:Wisata_Bukit_Gibeon,dbo:nearbyAttraction,Pantai_Ajjibata
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,dct:category,cat:Alam
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,hasFeature,Pemandangan Alam
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,hasLandscape,Perbukitan
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,suitableFor,Keluarga
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,suitableFor,Anak-anak
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,suitableFor,Dewasa
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,activityType,Fotografi
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,activityType,Bersantai
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,dbo:openingHours,Setiap Hari
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,dbo:parking,Tersedia
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,accessibleBy,Mobil
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,accessibleBy,Motor
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,roadCondition,Baik
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,hasAtmosphere,Sejuk
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,hasAtmosphere,Tenang
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,dbo:transportation,Mobil
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,dbo:transportation,Motor
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,ex:availableFacility,Spot Foto
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,ex:availableFacility,Gazebo
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,ex:availableFacility,Area Parkir
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,ex:hasDiningOption,Warung Makan
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,ex:hasLocalCuisine,Makanan Ringan
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,dbo:location,Toba
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,dbo:locatedInArea,Tara Bunga
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,ex:ticketPriceRange,Terjangkau
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,ex:inTourismZone,Danau Toba
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,hasFeature,Rumah Pohon
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,hasSubCategory,Spot Instagramable
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,suitableFor,Rombongan
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,activityType,Relaksasi
+res:Air_Terjun_Sampuran_Huta_Namora,hasDistrict,dis:BALIGE
+res:Air_Terjun_Sampuran_Huta_Namora,hasRegency,reg:Toba_Samosir
+res:Air_Terjun_Siboruon,hasDistrict,dis:BALIGE
+res:Air_Terjun_Siboruon,hasRegency,reg:Toba_Samosir
+res:Bukit_Senyum,hasDistrict,dis:AJIBATA
+res:Bukit_Senyum,hasRegency,reg:Toba_Samosir
+res:Singgolom,hasDistrict,dis:TAMPAHAN
+res:Singgolom,hasRegency,reg:Toba_Samosir
+res:Ponot_Waterfall,hasDistrict,dis:PINTUPOHANMERANTI
+res:Ponot_Waterfall,hasRegency,reg:Toba_Samosir
+res:Batu_Basiha,hasDistrict,dis:BALIGE
+res:Batu_Basiha,hasRegency,reg:Toba_Samosir
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,hasDistrict,dis:SIGUMPAR
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,hasRegency,reg:Toba_Samosir
+res:TB_Silalahi_Swimming_Pool,hasDistrict,dis:BALIGE
+res:TB_Silalahi_Swimming_Pool,hasRegency,reg:Toba_Samosir
+res:Labersa_Toba_Fantasi_Waterpark,hasDistrict,dis:BALIGE
+res:Labersa_Toba_Fantasi_Waterpark,hasRegency,reg:Toba_Samosir
+res:Gua_Liang_Sipege,hasDistrict,dis:BALIGE
+res:Gua_Liang_Sipege,hasRegency,reg:Toba_Samosir
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,hasDistrict,dis:SIGUMPAR
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,hasRegency,reg:Toba_Samosir
+res:Tomb_of_king_Sisingamangaraja_XII,hasDistrict,dis:BALIGE
+res:Tomb_of_king_Sisingamangaraja_XII,hasRegency,reg:Toba_Samosir
+res:Mual_Sirambe_Nauli,hasDistrict,dis:BALIGE
+res:Mual_Sirambe_Nauli,hasRegency,reg:Toba_Samosir
+res:Museum_Batak_TB_Silalahi_Center,hasDistrict,dis:BALIGE
+res:Museum_Batak_TB_Silalahi_Center,hasRegency,reg:Toba_Samosir
+res:Lumban_Binanga_Beach_Laguboti,hasDistrict,dis:LAGUBOTI
+res:Lumban_Binanga_Beach_Laguboti,hasRegency,reg:Toba_Samosir
+res:Pantai_Pakodian,hasDistrict,dis:TAMPAHAN
+res:Pantai_Pakodian,hasRegency,reg:Toba_Samosir
+res:Pantai_Pasir_Putih_Parparean,hasDistrict,dis:PORSEA
+res:Pantai_Pasir_Putih_Parparean,hasRegency,reg:Toba_Samosir
+res:Pantai_BUL_BUL,hasDistrict,dis:BALIGE
+res:Pantai_BUL_BUL,hasRegency,reg:Toba_Samosir
+res:Puncak_Sibodiala,hasDistrict,dis:BALIGE
+res:Puncak_Sibodiala,hasRegency,reg:Toba_Samosir
+res:Siregar_Aek_Nalas,hasDistrict,dis:ULUAN
+res:Siregar_Aek_Nalas,hasRegency,reg:Toba_Samosir
+res:The_Kaldera,hasDistrict,dis:AJIBATA
+res:The_Kaldera,hasRegency,reg:Toba_Samosir
+res:Puncak_Tara_Bunga,hasDistrict,dis:TAMPAHAN
+res:Puncak_Tara_Bunga,hasRegency,reg:Toba_Samosir
+res:Taman_Doa_Gurgur_YPKG,hasDistrict,dis:TAMPAHAN
+res:Taman_Doa_Gurgur_YPKG,hasRegency,reg:Toba_Samosir
+res:Taman_Eden_100_Toba,hasDistrict,dis:LUMBANJULU
+res:Taman_Eden_100_Toba,hasRegency,reg:Toba_Samosir
+res:Wisata_Bukit_Gibeon,hasDistrict,dis:LUMBANJULU
+res:Wisata_Bukit_Gibeon,hasRegency,reg:Toba_Samosir
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,hasDistrict,dis:TAMPAHAN
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,hasRegency,reg:Toba_Samosir
+res:Singgolom,nearbyRestaurant,res:Rumah_Makan_Sigiring_Giring
+res:Batu_Basiha,nearbyRestaurant,res:Cafe_Hollywood
+res:Batu_Basiha,nearbyRestaurant,res:Foodpedia_Balige
+res:Batu_Basiha,nearbyRestaurant,res:Warung_Kembar_KHAS_BATAK
+res:Batu_Basiha,nearbyRestaurant,res:Rumah_Makan_Khas_Batak_Lamhot
+res:Batu_Basiha,nearbyRestaurant,res:Tao_Tio_Coffee_and_Resto
+res:Batu_Basiha,nearbyRestaurant,res:Boruku
+res:Batu_Basiha,nearbyRestaurant,res:RM._GOMGOM_KHAS_BATAK
+res:Batu_Basiha,nearbyRestaurant,res:Caldera_Resto_and_Coffee
+res:Batu_Basiha,nearbyRestaurant,res:Smile_Coffee_&_Cafe
+res:Batu_Basiha,nearbyRestaurant,res:The_Deck_Balige_Restaurant_&_Lounge
+res:Batu_Basiha,nearbyRestaurant,res:Toba_Corner_Restaurant
+res:Batu_Basiha,nearbyRestaurant,res:Sihar_resto_&_coffee
+res:Batu_Basiha,nearbyRestaurant,res:Agatha_Space
+res:Batu_Basiha,nearbyRestaurant,res:Rumah_Makan_Khas_Batak_Toba_Utara
+res:Batu_Basiha,nearbyRestaurant,res:Kedai_Bakmi_Bahagia_2
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,nearbyRestaurant,res:BPK
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,nearbyRestaurant,res:Lapo_Parratusan
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,nearbyRestaurant,res:RM_Khas_Batak_REVA
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:Cafe_Hollywood
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:Foodpedia_Balige
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:Warung_Kembar_KHAS_BATAK
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:Rumah_Makan_Khas_Batak_Lamhot
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:Tao_Tio_Coffee_and_Resto
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:Boruku
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:Tepi_Danau_Bistro
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:Renjana_Cafe
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:RM._GOMGOM_KHAS_BATAK
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:Caldera_Resto_and_Coffee
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:Smile_Coffee_&_Cafe
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:The_Deck_Balige_Restaurant_&_Lounge
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:Toba_Corner_Restaurant
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:Sihar_resto_&_coffee
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:Agatha_Space
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,"res:Kedai_Bakmi_""Bahagia""___""Sukaria"""
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:Rumah_Makan_Khas_Batak_TOBA_SAMOSIR
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:Rumah_Makan_Khas_Batak_Toba_Utara
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:BAKSO_BABI_BASECAME_BALIGE
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:Kedai_Bakmi_Bahagia_2
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:Rumah_Makan_Panca
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:Betesda_Cafe_Balige
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:Naga_Restoran
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:Santai_Cafe
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:Sang_Diva_Cafe_&_Resto
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:Vivi_Cafe
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:Damar_Toba_~_Lakeside_Eatery_&_Stay
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:Cafe_Galilea
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:Joyce_Cafe
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:AQUINO_CAFE
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:Toba_Rose_Hotel
+res:TB_Silalahi_Swimming_Pool,nearbyRestaurant,res:Wita_Cafe
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:Smile_Coffee_&_Cafe
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:The_Deck_Balige_Restaurant_&_Lounge
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:Toba_Corner_Restaurant
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:Sihar_resto_&_coffee
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:Agatha_Space
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,"res:Kedai_Bakmi_""Bahagia""___""Sukaria"""
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:Rumah_Makan_Khas_Batak_TOBA_SAMOSIR
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:Rumah_Makan_Khas_Batak_Toba_Utara
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:BAKSO_BABI_BASECAME_BALIGE
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:Kedai_Bakmi_Bahagia_2
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:Rumah_Makan_Panca
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:Sang_Diva_Cafe_&_Resto
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:Bulbul_Resto
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:Kedai_Bakmi_Laris
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:Amora_Cafe
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:Rumah_Makan_Muslim_Berkah
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:Rumah_Makan_Pintu_Batu
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:Quality_Fried_Chicken
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:Chinese_Food_Gemar
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:Rumah_Makan_TONDONGTA
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:Kopi_Partungkoan_Balige
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:RAHAYU_STEAK
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:Balige_Seafood
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:Sinar_Minang_Restaurant_&_Convention_Hall
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:RM._Khas_Batak_Monalisa
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:Tabo_seafood_Balige
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:Bulbul_Resto
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:Tampubolon_Lbn_Atas
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:Rm.Mariboto
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:KFC_Balige
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:Lagos_Cafe
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:Ataraxia_Cafe
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:Hotdaina_Cafe_&_Resto
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:Lago_Hotel_&_Resto
+res:Labersa_Toba_Fantasi_Waterpark,nearbyRestaurant,res:Toba_bypass_cafe_&_resto
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,nearbyRestaurant,res:BPK
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,nearbyRestaurant,res:Lapo_Parratusan
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,nearbyRestaurant,res:RM_Khas_Batak_REVA
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Cafe_Hollywood
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Foodpedia_Balige
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Warung_Kembar_KHAS_BATAK
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Rumah_Makan_Khas_Batak_Lamhot
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Tao_Tio_Coffee_and_Resto
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Boruku
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Tepi_Danau_Bistro
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Renjana_Cafe
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:RM._GOMGOM_KHAS_BATAK
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Caldera_Resto_and_Coffee
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Smile_Coffee_&_Cafe
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:The_Deck_Balige_Restaurant_&_Lounge
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Toba_Corner_Restaurant
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Sihar_resto_&_coffee
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Agatha_Space
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,"res:Kedai_Bakmi_""Bahagia""___""Sukaria"""
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Rumah_Makan_Khas_Batak_TOBA_SAMOSIR
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Rumah_Makan_Khas_Batak_Toba_Utara
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:BAKSO_BABI_BASECAME_BALIGE
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Kedai_Bakmi_Bahagia_2
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Rumah_Makan_Panca
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Naga_Restoran
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Santai_Cafe
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Sang_Diva_Cafe_&_Resto
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Vivi_Cafe
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Damar_Toba_~_Lakeside_Eatery_&_Stay
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Bulbul_Resto
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Cafe_Galilea
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Joyce_Cafe
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Toba_Rose_Hotel
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Kedai_Bakmi_Laris
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Rumah_Makan_Muslim_Berkah
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Rumah_Makan_Pintu_Batu
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Quality_Fried_Chicken
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Chinese_Food_Gemar
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Rumah_Makan_TONDONGTA
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:Kopi_Partungkoan_Balige
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyRestaurant,res:RAHAYU_STEAK
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Cafe_Hollywood
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Foodpedia_Balige
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Warung_Kembar_KHAS_BATAK
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Rumah_Makan_Khas_Batak_Lamhot
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Tao_Tio_Coffee_and_Resto
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Boruku
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Tepi_Danau_Bistro
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Renjana_Cafe
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:RM._GOMGOM_KHAS_BATAK
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Caldera_Resto_and_Coffee
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Smile_Coffee_&_Cafe
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:The_Deck_Balige_Restaurant_&_Lounge
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Toba_Corner_Restaurant
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Sihar_resto_&_coffee
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Agatha_Space
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,"res:Kedai_Bakmi_""Bahagia""___""Sukaria"""
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Rumah_Makan_Khas_Batak_TOBA_SAMOSIR
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Rumah_Makan_Khas_Batak_Toba_Utara
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:BAKSO_BABI_BASECAME_BALIGE
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Kedai_Bakmi_Bahagia_2
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Rumah_Makan_Panca
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Betesda_Cafe_Balige
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Naga_Restoran
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Santai_Cafe
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Sang_Diva_Cafe_&_Resto
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Vivi_Cafe
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Damar_Toba_~_Lakeside_Eatery_&_Stay
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Bulbul_Resto
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Cafe_Galilea
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Joyce_Cafe
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:AQUINO_CAFE
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Toba_Rose_Hotel
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Wita_Cafe
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Kedai_Bakmi_Laris
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Rumah_Makan_Muslim_Berkah
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Quality_Fried_Chicken
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Chinese_Food_Gemar
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Rumah_Makan_TONDONGTA
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:Kopi_Partungkoan_Balige
+res:Museum_Batak_TB_Silalahi_Center,nearbyRestaurant,res:RAHAYU_STEAK
+res:Lumban_Binanga_Beach_Laguboti,nearbyRestaurant,res:Rumah_Makan_BOIMA_2_Khas_Batak
+res:Lumban_Binanga_Beach_Laguboti,nearbyRestaurant,res:OS_COFFEE_cafe_&_resto
+res:Pantai_Pakodian,nearbyRestaurant,res:Rumah_Makan_Sigiring_Giring
+res:Pantai_Pasir_Putih_Parparean,nearbyRestaurant,res:Cafè_WakuWaku_Toba
+res:Pantai_Pasir_Putih_Parparean,nearbyRestaurant,res:Quality_Time_Cafe
+res:Pantai_Pasir_Putih_Parparean,nearbyRestaurant,res:Toba_Seafood_Tumpah_Millenial
+res:Pantai_Pasir_Putih_Parparean,nearbyRestaurant,res:Tabobah_Cafe
+res:Pantai_BUL_BUL,nearbyRestaurant,res:Smile_Coffee_&_Cafe
+res:Pantai_BUL_BUL,nearbyRestaurant,res:The_Deck_Balige_Restaurant_&_Lounge
+res:Pantai_BUL_BUL,nearbyRestaurant,res:Toba_Corner_Restaurant
+res:Pantai_BUL_BUL,nearbyRestaurant,res:Sihar_resto_&_coffee
+res:Pantai_BUL_BUL,nearbyRestaurant,res:Agatha_Space
+res:Pantai_BUL_BUL,nearbyRestaurant,"res:Kedai_Bakmi_""Bahagia""___""Sukaria"""
+res:Pantai_BUL_BUL,nearbyRestaurant,res:Rumah_Makan_Khas_Batak_TOBA_SAMOSIR
+res:Pantai_BUL_BUL,nearbyRestaurant,res:Rumah_Makan_Khas_Batak_Toba_Utara
+res:Pantai_BUL_BUL,nearbyRestaurant,res:BAKSO_BABI_BASECAME_BALIGE
+res:Pantai_BUL_BUL,nearbyRestaurant,res:Kedai_Bakmi_Bahagia_2
+res:Pantai_BUL_BUL,nearbyRestaurant,res:Rumah_Makan_Panca
+res:Pantai_BUL_BUL,nearbyRestaurant,res:Sang_Diva_Cafe_&_Resto
+res:Pantai_BUL_BUL,nearbyRestaurant,res:Bulbul_Resto
+res:Pantai_BUL_BUL,nearbyRestaurant,res:Kedai_Bakmi_Laris
+res:Pantai_BUL_BUL,nearbyRestaurant,res:Rumah_Makan_Muslim_Berkah
+res:Pantai_BUL_BUL,nearbyRestaurant,res:Rumah_Makan_Pintu_Batu
+res:Pantai_BUL_BUL,nearbyRestaurant,res:Quality_Fried_Chicken
+res:Pantai_BUL_BUL,nearbyRestaurant,res:Chinese_Food_Gemar
+res:Pantai_BUL_BUL,nearbyRestaurant,res:Rumah_Makan_TONDONGTA
+res:Pantai_BUL_BUL,nearbyRestaurant,res:Kopi_Partungkoan_Balige
+res:Pantai_BUL_BUL,nearbyRestaurant,res:RAHAYU_STEAK
+res:Pantai_BUL_BUL,nearbyRestaurant,res:Balige_Seafood
+res:Pantai_BUL_BUL,nearbyRestaurant,res:Sinar_Minang_Restaurant_&_Convention_Hall
+res:Pantai_BUL_BUL,nearbyRestaurant,res:RM._Khas_Batak_Monalisa
+res:Pantai_BUL_BUL,nearbyRestaurant,res:Tabo_seafood_Balige
+res:Pantai_BUL_BUL,nearbyRestaurant,res:Bulbul_Resto
+res:Pantai_BUL_BUL,nearbyRestaurant,res:RESTO_&_HOMESTAY_LUMBAN_BULBUL
+res:Pantai_BUL_BUL,nearbyRestaurant,res:KFC_Balige
+res:Pantai_BUL_BUL,nearbyRestaurant,res:Lagos_Cafe
+res:Pantai_BUL_BUL,nearbyRestaurant,res:Lago_Hotel_&_Resto
+res:The_Kaldera,nearbyRestaurant,res:Ririn_Kitchen_Kaldera_Toba
+res:The_Kaldera,nearbyRestaurant,res:Hidangan_Muslim_Rumah_Makan_CHARISSA
+res:The_Kaldera,nearbyRestaurant,res:Nom_Addict_Kitchen_&_Cafe_by_Mogi
+res:Taman_Doa_Gurgur_YPKG,nearbyRestaurant,res:Rumah_Makan_Sigiring_Giring
+res:Taman_Doa_Gurgur_YPKG,nearbyRestaurant,res:PADELTA_lapo
+res:Taman_Eden_100_Toba,nearbyRestaurant,res:RM_Singgalang
+res:Taman_Eden_100_Toba,nearbyRestaurant,res:Wanny_Cavari_Cafe_Binanga
+res:Taman_Eden_100_Toba,nearbyRestaurant,res:Aek_Natio_Cafe_&_Resto
+res:Taman_Eden_100_Toba,nearbyRestaurant,res:THE_MARIO'S_Eatery_&_Cafe
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,nearbyRestaurant,res:Rumah_Makan_Sigiring_Giring
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,nearbyRestaurant,res:Cafe_terapung_timothi
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,nearbyRestaurant,res:Toba_Naria_Cafe
+res:Air_Terjun_Siboruon,nearbyAkomodation,res:PUDAN_RESIDENCE_toba
+res:Singgolom,nearbyAkomodation,res:Pondok_Berata_Dapdap
+res:Batu_Basiha,nearbyAkomodation,res:SOVONTA_HOTEL_toba
+res:Batu_Basiha,nearbyAkomodation,res:RAP_HOTEL_toba
+res:Batu_Basiha,nearbyAkomodation,res:MUTIARA_BALIGE_HOTEL_toba
+res:Batu_Basiha,nearbyAkomodation,res:ITA_HOMESTAY_PAGAR_BATU_toba
+res:Batu_Basiha,nearbyAkomodation,res:HOTEL_ITA_toba
+res:Batu_Basiha,nearbyAkomodation,res:PONDOK_SILIWANGI_toba
+res:TB_Silalahi_Swimming_Pool,nearbyAkomodation,res:HOTEL_NABASA_toba
+res:TB_Silalahi_Swimming_Pool,nearbyAkomodation,res:VILLA_SAPADIA_toba
+res:TB_Silalahi_Swimming_Pool,nearbyAkomodation,res:SOVONTA_HOTEL_toba
+res:TB_Silalahi_Swimming_Pool,nearbyAkomodation,res:RAP_HOTEL_toba
+res:TB_Silalahi_Swimming_Pool,nearbyAkomodation,res:HOTEL_OMPU_HERTI_toba
+res:TB_Silalahi_Swimming_Pool,nearbyAkomodation,res:MUTIARA_BALIGE_HOTEL_toba
+res:TB_Silalahi_Swimming_Pool,nearbyAkomodation,res:Toba_Rose_toba
+res:TB_Silalahi_Swimming_Pool,nearbyAkomodation,res:ITA_HOMESTAY_PAGAR_BATU_toba
+res:TB_Silalahi_Swimming_Pool,nearbyAkomodation,res:HOTEL_ITA_toba
+res:TB_Silalahi_Swimming_Pool,nearbyAkomodation,res:PONDOK_SILIWANGI_toba
+res:TB_Silalahi_Swimming_Pool,nearbyAkomodation,res:AQUINO_HOMESTAY_toba
+res:TB_Silalahi_Swimming_Pool,nearbyAkomodation,res:brussels_homestay_toba
+res:TB_Silalahi_Swimming_Pool,nearbyAkomodation,res:Hotel_Mezra_toba
+res:TB_Silalahi_Swimming_Pool,nearbyAkomodation,res:MESS_PEMPROVSU_BALIGE_toba
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAkomodation,res:HOTEL_NABASA_toba
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAkomodation,res:VILLA_SAPADIA_toba
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAkomodation,res:SOVONTA_HOTEL_toba
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAkomodation,res:RAP_HOTEL_toba
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAkomodation,res:MUTIARA_BALIGE_HOTEL_toba
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAkomodation,res:PONDOK_SILIWANGI_toba
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAkomodation,res:JS_HOTEL_toba
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAkomodation,res:brussels_homestay_toba
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAkomodation,res:Hotel_Mezra_toba
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAkomodation,res:MESS_PEMPROVSU_BALIGE_toba
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAkomodation,res:HOTEL_MARSARINGAR_toba
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAkomodation,res:Nauli_Inn_toba
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAkomodation,res:HOMESTAY_OP._PATUDU_toba
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAkomodation,res:Labersa_Hotel_and_Convention_Center_Toba_Balige
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAkomodation,res:KARISMA_RESIDENCE_toba
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAkomodation,res:LAGO_HOTEL_toba
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAkomodation,res:NAGITA_HOMESTAY_toba
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAkomodation,res:HOMESTAY_MELATI_toba
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAkomodation,res:HOMESTAY_HELENA_toba
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAkomodation,res:LORO_SAI_HOMESTAY_toba
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAkomodation,res:ELYSHA_HOMESTAY_toba
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAkomodation,res:Homestay_Rindu_toba
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAkomodation,res:Homestay_Tulus_toba
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAkomodation,res:Homestay_Suteja_toba
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAkomodation,res:Op._Dahlia_Homestay
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAkomodation,res:Homestay_Christian_toba
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyAkomodation,res:HOTEL_NABASA_toba
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyAkomodation,res:VILLA_SAPADIA_toba
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyAkomodation,res:SOVONTA_HOTEL_toba
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyAkomodation,res:RAP_HOTEL_toba
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyAkomodation,res:HOTEL_OMPU_HERTI_toba
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyAkomodation,res:MUTIARA_BALIGE_HOTEL_toba
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyAkomodation,res:Toba_Rose_toba
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyAkomodation,res:ITA_HOMESTAY_PAGAR_BATU_toba
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyAkomodation,res:HOTEL_ITA_toba
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyAkomodation,res:PONDOK_SILIWANGI_toba
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyAkomodation,res:JS_HOTEL_toba
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyAkomodation,res:brussels_homestay_toba
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyAkomodation,res:Hotel_Mezra_toba
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyAkomodation,res:MESS_PEMPROVSU_BALIGE_toba
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyAkomodation,res:HOTEL_MARSARINGAR_toba
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyAkomodation,res:KARISMA_RESIDENCE_toba
+res:Museum_Batak_TB_Silalahi_Center,nearbyAkomodation,res:HOTEL_NABASA_toba
+res:Museum_Batak_TB_Silalahi_Center,nearbyAkomodation,res:VILLA_SAPADIA_toba
+res:Museum_Batak_TB_Silalahi_Center,nearbyAkomodation,res:SOVONTA_HOTEL_toba
+res:Museum_Batak_TB_Silalahi_Center,nearbyAkomodation,res:RAP_HOTEL_toba
+res:Museum_Batak_TB_Silalahi_Center,nearbyAkomodation,res:HOTEL_OMPU_HERTI_toba
+res:Museum_Batak_TB_Silalahi_Center,nearbyAkomodation,res:MUTIARA_BALIGE_HOTEL_toba
+res:Museum_Batak_TB_Silalahi_Center,nearbyAkomodation,res:Toba_Rose_toba
+res:Museum_Batak_TB_Silalahi_Center,nearbyAkomodation,res:ITA_HOMESTAY_PAGAR_BATU_toba
+res:Museum_Batak_TB_Silalahi_Center,nearbyAkomodation,res:HOTEL_ITA_toba
+res:Museum_Batak_TB_Silalahi_Center,nearbyAkomodation,res:PONDOK_SILIWANGI_toba
+res:Museum_Batak_TB_Silalahi_Center,nearbyAkomodation,res:AQUINO_HOMESTAY_toba
+res:Museum_Batak_TB_Silalahi_Center,nearbyAkomodation,res:JS_HOTEL_toba
+res:Museum_Batak_TB_Silalahi_Center,nearbyAkomodation,res:brussels_homestay_toba
+res:Museum_Batak_TB_Silalahi_Center,nearbyAkomodation,res:Hotel_Mezra_toba
+res:Museum_Batak_TB_Silalahi_Center,nearbyAkomodation,res:MESS_PEMPROVSU_BALIGE_toba
+res:Museum_Batak_TB_Silalahi_Center,nearbyAkomodation,res:HOTEL_MARSARINGAR_toba
+res:Lumban_Binanga_Beach_Laguboti,nearbyAkomodation,res:Homestay_Raja_Hiobaja_Sianipar
+res:Lumban_Binanga_Beach_Laguboti,nearbyAkomodation,res:HOTRONA_HOTEL_toba
+res:Lumban_Binanga_Beach_Laguboti,nearbyAkomodation,res:Hotman_homestay_toba
+res:Pantai_Pasir_Putih_Parparean,nearbyAkomodation,res:HOTEL_TASYA_toba
+res:Pantai_Pasir_Putih_Parparean,nearbyAkomodation,res:HOTEL_SANTO_DJAYA_toba
+res:Pantai_Pasir_Putih_Parparean,nearbyAkomodation,res:HOMESTAY_VOSTEL_PASIR_PUTIH_toba
+res:Pantai_Pasir_Putih_Parparean,nearbyAkomodation,res:OYO_91630_Mabar_Homestay_Syariah
+res:Pantai_BUL_BUL,nearbyAkomodation,res:HOTEL_NABASA_toba
+res:Pantai_BUL_BUL,nearbyAkomodation,res:SOVONTA_HOTEL_toba
+res:Pantai_BUL_BUL,nearbyAkomodation,res:RAP_HOTEL_toba
+res:Pantai_BUL_BUL,nearbyAkomodation,res:MUTIARA_BALIGE_HOTEL_toba
+res:Pantai_BUL_BUL,nearbyAkomodation,res:PONDOK_SILIWANGI_toba
+res:Pantai_BUL_BUL,nearbyAkomodation,res:brussels_homestay_toba
+res:Pantai_BUL_BUL,nearbyAkomodation,res:Hotel_Mezra_toba
+res:Pantai_BUL_BUL,nearbyAkomodation,res:MESS_PEMPROVSU_BALIGE_toba
+res:Pantai_BUL_BUL,nearbyAkomodation,res:HOTEL_MARSARINGAR_toba
+res:Pantai_BUL_BUL,nearbyAkomodation,res:BALIGE_BEACH_HOTEL_toba
+res:Pantai_BUL_BUL,nearbyAkomodation,res:Nauli_Inn_toba
+res:Pantai_BUL_BUL,nearbyAkomodation,res:Homestay_Ramoti_toba
+res:Pantai_BUL_BUL,nearbyAkomodation,res:KARISMA_RESIDENCE_toba
+res:Pantai_BUL_BUL,nearbyAkomodation,res:HOMESTAY_OP.MARTAHAN_toba
+res:Pantai_BUL_BUL,nearbyAkomodation,res:LAGO_HOTEL_toba
+res:Pantai_BUL_BUL,nearbyAkomodation,res:Manise_Homestay_toba
+res:Pantai_BUL_BUL,nearbyAkomodation,res:Homestay_Mentari_toba
+res:Pantai_BUL_BUL,nearbyAkomodation,res:NAGITA_HOMESTAY_toba
+res:Pantai_BUL_BUL,nearbyAkomodation,res:HOMESTAY_MELATI_toba
+res:Pantai_BUL_BUL,nearbyAkomodation,res:Maniur_homestay_toba
+res:Pantai_BUL_BUL,nearbyAkomodation,res:HOMESTAY_DION_toba
+res:Pantai_BUL_BUL,nearbyAkomodation,res:HOMESTAY_HELENA_toba
+res:Pantai_BUL_BUL,nearbyAkomodation,res:LORO_SAI_HOMESTAY_toba
+res:Pantai_BUL_BUL,nearbyAkomodation,res:ELYSHA_HOMESTAY_toba
+res:Pantai_BUL_BUL,nearbyAkomodation,res:HOMESTAY_NAEL_JAYA_toba
+res:Pantai_BUL_BUL,nearbyAkomodation,res:Homestay_Rindu_toba
+res:Pantai_BUL_BUL,nearbyAkomodation,res:Homestay_Tulus_toba
+res:Pantai_BUL_BUL,nearbyAkomodation,res:Aster_Homestay_toba
+res:Pantai_BUL_BUL,nearbyAkomodation,res:Homestay_Suteja_toba
+res:Pantai_BUL_BUL,nearbyAkomodation,res:Op._Dahlia_Homestay
+res:Pantai_BUL_BUL,nearbyAkomodation,res:Homestay_Christian_toba
+res:The_Kaldera,nearbyAkomodation,res:Bobocabin_Kaldera_Toba
+res:Puncak_Tara_Bunga,nearbyAkomodation,res:Pondok_Berata_Dapdap
+res:Puncak_Tara_Bunga,nearbyAkomodation,res:HOTEL_TIARA_BUNGA_toba
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,nearbyAkomodation,res:Pondok_Berata_Dapdap
+res:Air_Terjun_Sampuran_Huta_Namora,nearbyAttraction,res:Air_Terjun_Siboruon
+res:Air_Terjun_Sampuran_Huta_Namora,nearbyAttraction,res:Labersa_Toba_Fantasi_Waterpark
+res:Air_Terjun_Sampuran_Huta_Namora,nearbyAttraction,res:Gua_Liang_Sipege
+res:Air_Terjun_Sampuran_Huta_Namora,nearbyAttraction,res:Mual_Sirambe_Nauli
+res:Air_Terjun_Siboruon,nearbyAttraction,res:Museum_Batak_TB_Silalahi_Center
+res:Air_Terjun_Siboruon,nearbyAttraction,res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga
+res:Air_Terjun_Siboruon,nearbyAttraction,res:Singgolom
+res:Air_Terjun_Siboruon,nearbyAttraction,res:Taman_Doa_Gurgur_YPKG
+res:Air_Terjun_Siboruon,nearbyAttraction,res:TB_Silalahi_Swimming_Pool
+res:Air_Terjun_Siboruon,nearbyAttraction,res:Puncak_Tara_Bunga
+res:Air_Terjun_Siboruon,nearbyAttraction,res:Puncak_Sibodiala
+res:Air_Terjun_Siboruon,nearbyAttraction,res:Pantai_Pakodian
+res:Air_Terjun_Siboruon,nearbyAttraction,res:Tomb_of_king_Sisingamangaraja_XII
+res:Air_Terjun_Siboruon,nearbyAttraction,res:Batu_Basiha
+res:Air_Terjun_Siboruon,nearbyAttraction,res:Labersa_Toba_Fantasi_Waterpark
+res:Air_Terjun_Siboruon,nearbyAttraction,res:Pantai_BUL_BUL
+res:Air_Terjun_Siboruon,nearbyAttraction,res:Lumban_Binanga_Beach_Laguboti
+res:Air_Terjun_Siboruon,nearbyAttraction,res:Gua_Liang_Sipege
+res:Air_Terjun_Siboruon,nearbyAttraction,res:Mual_Sirambe_Nauli
+res:Air_Terjun_Siboruon,nearbyAttraction,res:Air_Terjun_Sampuran_Huta_Namora
+res:Bukit_Senyum,nearbyAttraction,res:Bukit_Senyum
+res:Bukit_Senyum,nearbyAttraction,res:The_Kaldera
+res:Singgolom,nearbyAttraction,res:Museum_Batak_TB_Silalahi_Center
+res:Singgolom,nearbyAttraction,res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga
+res:Singgolom,nearbyAttraction,res:Singgolom
+res:Singgolom,nearbyAttraction,res:Taman_Doa_Gurgur_YPKG
+res:Singgolom,nearbyAttraction,res:TB_Silalahi_Swimming_Pool
+res:Singgolom,nearbyAttraction,res:Puncak_Tara_Bunga
+res:Singgolom,nearbyAttraction,res:Puncak_Sibodiala
+res:Singgolom,nearbyAttraction,res:Pantai_Pakodian
+res:Singgolom,nearbyAttraction,res:Tomb_of_king_Sisingamangaraja_XII
+res:Singgolom,nearbyAttraction,res:Batu_Basiha
+res:Singgolom,nearbyAttraction,res:Air_Terjun_Siboruon
+res:Singgolom,nearbyAttraction,res:Labersa_Toba_Fantasi_Waterpark
+res:Singgolom,nearbyAttraction,res:Pantai_BUL_BUL
+res:Ponot_Waterfall,nearbyAttraction,res:Ponot_Waterfall
+res:Batu_Basiha,nearbyAttraction,res:Museum_Batak_TB_Silalahi_Center
+res:Batu_Basiha,nearbyAttraction,res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga
+res:Batu_Basiha,nearbyAttraction,res:Singgolom
+res:Batu_Basiha,nearbyAttraction,res:Taman_Doa_Gurgur_YPKG
+res:Batu_Basiha,nearbyAttraction,res:TB_Silalahi_Swimming_Pool
+res:Batu_Basiha,nearbyAttraction,res:Puncak_Tara_Bunga
+res:Batu_Basiha,nearbyAttraction,res:Puncak_Sibodiala
+res:Batu_Basiha,nearbyAttraction,res:Pantai_Pakodian
+res:Batu_Basiha,nearbyAttraction,res:Tomb_of_king_Sisingamangaraja_XII
+res:Batu_Basiha,nearbyAttraction,res:Batu_Basiha
+res:Batu_Basiha,nearbyAttraction,res:Air_Terjun_Siboruon
+res:Batu_Basiha,nearbyAttraction,res:Labersa_Toba_Fantasi_Waterpark
+res:Batu_Basiha,nearbyAttraction,res:Pantai_BUL_BUL
+res:Batu_Basiha,nearbyAttraction,res:Gua_Liang_Sipege
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,nearbyAttraction,res:Lumban_Binanga_Beach_Laguboti
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,nearbyAttraction,res:Makam_Missionaris_Pdt.DR.IL.Nommensen
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,nearbyAttraction,res:Pantai_Pasir_Putih_Parparean
+res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar,nearbyAttraction,res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar
+res:TB_Silalahi_Swimming_Pool,nearbyAttraction,res:Museum_Batak_TB_Silalahi_Center
+res:TB_Silalahi_Swimming_Pool,nearbyAttraction,res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga
+res:TB_Silalahi_Swimming_Pool,nearbyAttraction,res:Singgolom
+res:TB_Silalahi_Swimming_Pool,nearbyAttraction,res:Taman_Doa_Gurgur_YPKG
+res:TB_Silalahi_Swimming_Pool,nearbyAttraction,res:TB_Silalahi_Swimming_Pool
+res:TB_Silalahi_Swimming_Pool,nearbyAttraction,res:Puncak_Tara_Bunga
+res:TB_Silalahi_Swimming_Pool,nearbyAttraction,res:Puncak_Sibodiala
+res:TB_Silalahi_Swimming_Pool,nearbyAttraction,res:Pantai_Pakodian
+res:TB_Silalahi_Swimming_Pool,nearbyAttraction,res:Tomb_of_king_Sisingamangaraja_XII
+res:TB_Silalahi_Swimming_Pool,nearbyAttraction,res:Batu_Basiha
+res:TB_Silalahi_Swimming_Pool,nearbyAttraction,res:Air_Terjun_Siboruon
+res:TB_Silalahi_Swimming_Pool,nearbyAttraction,res:Labersa_Toba_Fantasi_Waterpark
+res:TB_Silalahi_Swimming_Pool,nearbyAttraction,res:Pantai_BUL_BUL
+res:TB_Silalahi_Swimming_Pool,nearbyAttraction,res:Gua_Liang_Sipege
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAttraction,res:Museum_Batak_TB_Silalahi_Center
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAttraction,res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAttraction,res:Singgolom
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAttraction,res:Taman_Doa_Gurgur_YPKG
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAttraction,res:TB_Silalahi_Swimming_Pool
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAttraction,res:Puncak_Tara_Bunga
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAttraction,res:Puncak_Sibodiala
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAttraction,res:Tomb_of_king_Sisingamangaraja_XII
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAttraction,res:Batu_Basiha
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAttraction,res:Air_Terjun_Siboruon
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAttraction,res:Labersa_Toba_Fantasi_Waterpark
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAttraction,res:Pantai_BUL_BUL
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAttraction,res:Lumban_Binanga_Beach_Laguboti
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAttraction,res:Gua_Liang_Sipege
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAttraction,res:Mual_Sirambe_Nauli
+res:Labersa_Toba_Fantasi_Waterpark,nearbyAttraction,res:Air_Terjun_Sampuran_Huta_Namora
+res:Gua_Liang_Sipege,nearbyAttraction,res:Museum_Batak_TB_Silalahi_Center
+res:Gua_Liang_Sipege,nearbyAttraction,res:TB_Silalahi_Swimming_Pool
+res:Gua_Liang_Sipege,nearbyAttraction,res:Tomb_of_king_Sisingamangaraja_XII
+res:Gua_Liang_Sipege,nearbyAttraction,res:Batu_Basiha
+res:Gua_Liang_Sipege,nearbyAttraction,res:Air_Terjun_Siboruon
+res:Gua_Liang_Sipege,nearbyAttraction,res:Labersa_Toba_Fantasi_Waterpark
+res:Gua_Liang_Sipege,nearbyAttraction,res:Pantai_BUL_BUL
+res:Gua_Liang_Sipege,nearbyAttraction,res:Gua_Liang_Sipege
+res:Gua_Liang_Sipege,nearbyAttraction,res:Mual_Sirambe_Nauli
+res:Gua_Liang_Sipege,nearbyAttraction,res:Air_Terjun_Sampuran_Huta_Namora
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,nearbyAttraction,res:Lumban_Binanga_Beach_Laguboti
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,nearbyAttraction,res:Makam_Missionaris_Pdt.DR.IL.Nommensen
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,nearbyAttraction,res:Pantai_Pasir_Putih_Parparean
+res:Makam_Missionaris_Pdt.DR.IL.Nommensen,nearbyAttraction,res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyAttraction,res:Museum_Batak_TB_Silalahi_Center
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyAttraction,res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyAttraction,res:Singgolom
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyAttraction,res:Taman_Doa_Gurgur_YPKG
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyAttraction,res:TB_Silalahi_Swimming_Pool
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyAttraction,res:Puncak_Tara_Bunga
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyAttraction,res:Puncak_Sibodiala
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyAttraction,res:Pantai_Pakodian
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyAttraction,res:Tomb_of_king_Sisingamangaraja_XII
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyAttraction,res:Batu_Basiha
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyAttraction,res:Air_Terjun_Siboruon
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyAttraction,res:Labersa_Toba_Fantasi_Waterpark
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyAttraction,res:Pantai_BUL_BUL
+res:Tomb_of_king_Sisingamangaraja_XII,nearbyAttraction,res:Gua_Liang_Sipege
+res:Mual_Sirambe_Nauli,nearbyAttraction,res:Air_Terjun_Siboruon
+res:Mual_Sirambe_Nauli,nearbyAttraction,res:Labersa_Toba_Fantasi_Waterpark
+res:Mual_Sirambe_Nauli,nearbyAttraction,res:Gua_Liang_Sipege
+res:Mual_Sirambe_Nauli,nearbyAttraction,res:Mual_Sirambe_Nauli
+res:Mual_Sirambe_Nauli,nearbyAttraction,res:Air_Terjun_Sampuran_Huta_Namora
+res:Museum_Batak_TB_Silalahi_Center,nearbyAttraction,res:Museum_Batak_TB_Silalahi_Center
+res:Museum_Batak_TB_Silalahi_Center,nearbyAttraction,res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga
+res:Museum_Batak_TB_Silalahi_Center,nearbyAttraction,res:Singgolom
+res:Museum_Batak_TB_Silalahi_Center,nearbyAttraction,res:Taman_Doa_Gurgur_YPKG
+res:Museum_Batak_TB_Silalahi_Center,nearbyAttraction,res:TB_Silalahi_Swimming_Pool
+res:Museum_Batak_TB_Silalahi_Center,nearbyAttraction,res:Puncak_Tara_Bunga
+res:Museum_Batak_TB_Silalahi_Center,nearbyAttraction,res:Puncak_Sibodiala
+res:Museum_Batak_TB_Silalahi_Center,nearbyAttraction,res:Pantai_Pakodian
+res:Museum_Batak_TB_Silalahi_Center,nearbyAttraction,res:Tomb_of_king_Sisingamangaraja_XII
+res:Museum_Batak_TB_Silalahi_Center,nearbyAttraction,res:Batu_Basiha
+res:Museum_Batak_TB_Silalahi_Center,nearbyAttraction,res:Air_Terjun_Siboruon
+res:Museum_Batak_TB_Silalahi_Center,nearbyAttraction,res:Labersa_Toba_Fantasi_Waterpark
+res:Museum_Batak_TB_Silalahi_Center,nearbyAttraction,res:Pantai_BUL_BUL
+res:Museum_Batak_TB_Silalahi_Center,nearbyAttraction,res:Gua_Liang_Sipege
+res:Lumban_Binanga_Beach_Laguboti,nearbyAttraction,res:Air_Terjun_Siboruon
+res:Lumban_Binanga_Beach_Laguboti,nearbyAttraction,res:Labersa_Toba_Fantasi_Waterpark
+res:Lumban_Binanga_Beach_Laguboti,nearbyAttraction,res:Lumban_Binanga_Beach_Laguboti
+res:Lumban_Binanga_Beach_Laguboti,nearbyAttraction,res:Makam_Missionaris_Pdt.DR.IL.Nommensen
+res:Lumban_Binanga_Beach_Laguboti,nearbyAttraction,res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar
+res:Pantai_Pakodian,nearbyAttraction,res:Museum_Batak_TB_Silalahi_Center
+res:Pantai_Pakodian,nearbyAttraction,res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga
+res:Pantai_Pakodian,nearbyAttraction,res:Singgolom
+res:Pantai_Pakodian,nearbyAttraction,res:Taman_Doa_Gurgur_YPKG
+res:Pantai_Pakodian,nearbyAttraction,res:TB_Silalahi_Swimming_Pool
+res:Pantai_Pakodian,nearbyAttraction,res:Puncak_Tara_Bunga
+res:Pantai_Pakodian,nearbyAttraction,res:Puncak_Sibodiala
+res:Pantai_Pakodian,nearbyAttraction,res:Pantai_Pakodian
+res:Pantai_Pakodian,nearbyAttraction,res:Tomb_of_king_Sisingamangaraja_XII
+res:Pantai_Pakodian,nearbyAttraction,res:Batu_Basiha
+res:Pantai_Pakodian,nearbyAttraction,res:Air_Terjun_Siboruon
+res:Pantai_Pasir_Putih_Parparean,nearbyAttraction,res:Makam_Missionaris_Pdt.DR.IL.Nommensen
+res:Pantai_Pasir_Putih_Parparean,nearbyAttraction,res:Pantai_Pasir_Putih_Parparean
+res:Pantai_Pasir_Putih_Parparean,nearbyAttraction,res:Gereja_HKBP_DR.IL.Nommensen_Sigumpar
+res:Pantai_BUL_BUL,nearbyAttraction,res:Museum_Batak_TB_Silalahi_Center
+res:Pantai_BUL_BUL,nearbyAttraction,res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga
+res:Pantai_BUL_BUL,nearbyAttraction,res:Singgolom
+res:Pantai_BUL_BUL,nearbyAttraction,res:Taman_Doa_Gurgur_YPKG
+res:Pantai_BUL_BUL,nearbyAttraction,res:TB_Silalahi_Swimming_Pool
+res:Pantai_BUL_BUL,nearbyAttraction,res:Puncak_Tara_Bunga
+res:Pantai_BUL_BUL,nearbyAttraction,res:Puncak_Sibodiala
+res:Pantai_BUL_BUL,nearbyAttraction,res:Tomb_of_king_Sisingamangaraja_XII
+res:Pantai_BUL_BUL,nearbyAttraction,res:Batu_Basiha
+res:Pantai_BUL_BUL,nearbyAttraction,res:Air_Terjun_Siboruon
+res:Pantai_BUL_BUL,nearbyAttraction,res:Labersa_Toba_Fantasi_Waterpark
+res:Pantai_BUL_BUL,nearbyAttraction,res:Pantai_BUL_BUL
+res:Pantai_BUL_BUL,nearbyAttraction,res:Gua_Liang_Sipege
+res:Puncak_Sibodiala,nearbyAttraction,res:Museum_Batak_TB_Silalahi_Center
+res:Puncak_Sibodiala,nearbyAttraction,res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga
+res:Puncak_Sibodiala,nearbyAttraction,res:Singgolom
+res:Puncak_Sibodiala,nearbyAttraction,res:Taman_Doa_Gurgur_YPKG
+res:Puncak_Sibodiala,nearbyAttraction,res:TB_Silalahi_Swimming_Pool
+res:Puncak_Sibodiala,nearbyAttraction,res:Puncak_Sibodiala
+res:Puncak_Sibodiala,nearbyAttraction,res:Pantai_Pakodian
+res:Puncak_Sibodiala,nearbyAttraction,res:Tomb_of_king_Sisingamangaraja_XII
+res:Puncak_Sibodiala,nearbyAttraction,res:Batu_Basiha
+res:Puncak_Sibodiala,nearbyAttraction,res:Air_Terjun_Siboruon
+res:Puncak_Sibodiala,nearbyAttraction,res:Labersa_Toba_Fantasi_Waterpark
+res:Puncak_Sibodiala,nearbyAttraction,res:Pantai_BUL_BUL
+res:Siregar_Aek_Nalas,nearbyAttraction,res:Siregar_Aek_Nalas
+res:The_Kaldera,nearbyAttraction,res:Bukit_Senyum
+res:The_Kaldera,nearbyAttraction,res:Wisata_Bukit_Gibeon
+res:The_Kaldera,nearbyAttraction,res:The_Kaldera
+res:Puncak_Tara_Bunga,nearbyAttraction,res:Museum_Batak_TB_Silalahi_Center
+res:Puncak_Tara_Bunga,nearbyAttraction,res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga
+res:Puncak_Tara_Bunga,nearbyAttraction,res:Singgolom
+res:Puncak_Tara_Bunga,nearbyAttraction,res:Taman_Doa_Gurgur_YPKG
+res:Puncak_Tara_Bunga,nearbyAttraction,res:TB_Silalahi_Swimming_Pool
+res:Puncak_Tara_Bunga,nearbyAttraction,res:Puncak_Tara_Bunga
+res:Puncak_Tara_Bunga,nearbyAttraction,res:Pantai_Pakodian
+res:Puncak_Tara_Bunga,nearbyAttraction,res:Tomb_of_king_Sisingamangaraja_XII
+res:Puncak_Tara_Bunga,nearbyAttraction,res:Batu_Basiha
+res:Puncak_Tara_Bunga,nearbyAttraction,res:Air_Terjun_Siboruon
+res:Puncak_Tara_Bunga,nearbyAttraction,res:Labersa_Toba_Fantasi_Waterpark
+res:Puncak_Tara_Bunga,nearbyAttraction,res:Pantai_BUL_BUL
+res:Taman_Doa_Gurgur_YPKG,nearbyAttraction,res:Museum_Batak_TB_Silalahi_Center
+res:Taman_Doa_Gurgur_YPKG,nearbyAttraction,res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga
+res:Taman_Doa_Gurgur_YPKG,nearbyAttraction,res:Singgolom
+res:Taman_Doa_Gurgur_YPKG,nearbyAttraction,res:Taman_Doa_Gurgur_YPKG
+res:Taman_Doa_Gurgur_YPKG,nearbyAttraction,res:TB_Silalahi_Swimming_Pool
+res:Taman_Doa_Gurgur_YPKG,nearbyAttraction,res:Puncak_Tara_Bunga
+res:Taman_Doa_Gurgur_YPKG,nearbyAttraction,res:Puncak_Sibodiala
+res:Taman_Doa_Gurgur_YPKG,nearbyAttraction,res:Pantai_Pakodian
+res:Taman_Doa_Gurgur_YPKG,nearbyAttraction,res:Tomb_of_king_Sisingamangaraja_XII
+res:Taman_Doa_Gurgur_YPKG,nearbyAttraction,res:Batu_Basiha
+res:Taman_Doa_Gurgur_YPKG,nearbyAttraction,res:Air_Terjun_Siboruon
+res:Taman_Doa_Gurgur_YPKG,nearbyAttraction,res:Labersa_Toba_Fantasi_Waterpark
+res:Taman_Doa_Gurgur_YPKG,nearbyAttraction,res:Pantai_BUL_BUL
+res:Taman_Eden_100_Toba,nearbyAttraction,res:Wisata_Bukit_Gibeon
+res:Taman_Eden_100_Toba,nearbyAttraction,res:Taman_Eden_100_Toba
+res:Wisata_Bukit_Gibeon,nearbyAttraction,res:Wisata_Bukit_Gibeon
+res:Wisata_Bukit_Gibeon,nearbyAttraction,res:Taman_Eden_100_Toba
+res:Wisata_Bukit_Gibeon,nearbyAttraction,res:The_Kaldera
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,nearbyAttraction,res:Museum_Batak_TB_Silalahi_Center
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,nearbyAttraction,res:Singgolom
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,nearbyAttraction,res:Taman_Doa_Gurgur_YPKG
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,nearbyAttraction,res:TB_Silalahi_Swimming_Pool
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,nearbyAttraction,res:Puncak_Tara_Bunga
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,nearbyAttraction,res:Puncak_Sibodiala
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,nearbyAttraction,res:Pantai_Pakodian
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,nearbyAttraction,res:Tomb_of_king_Sisingamangaraja_XII
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,nearbyAttraction,res:Batu_Basiha
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,nearbyAttraction,res:Air_Terjun_Siboruon
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,nearbyAttraction,res:Labersa_Toba_Fantasi_Waterpark
+res:Wisata_Rumah_Pohon_Jalan_Raya_TaraBunga,nearbyAttraction,res:Pantai_BUL_BUL
